@@ -1,0 +1,26 @@
+/tmp/ccxg0KvB.o: In function `void arma::lapack::potrf<double>(char*, int*, double*, int*, int*)':
+basic-openmpi.cpp:(.text._ZN4arma6lapack5potrfIdEEvPcPiPT_S3_S3_[_ZN4arma6lapack5potrfIdEEvPcPiPT_S3_S3_]+0x3d): undefined reference to `dpotrf_'
+/tmp/ccxg0KvB.o: In function `void arma::lapack::pbtrf<double>(char*, int*, int*, double*, int*, int*)':
+basic-openmpi.cpp:(.text._ZN4arma6lapack5pbtrfIdEEvPcPiS3_PT_S3_S3_[_ZN4arma6lapack5pbtrfIdEEvPcPiS3_PT_S3_S3_]+0x48): undefined reference to `dpbtrf_'
+/tmp/ccxg0KvB.o: In function `void arma::blas::gemv<double>(char const*, int const*, int const*, double const*, double const*, int const*, double const*, int const*, double const*, double*, int const*)':
+basic-openmpi.cpp:(.text._ZN4arma4blas4gemvIdEEvPKcPKiS5_PKT_S8_S5_S8_S5_S8_PS6_S5_[_ZN4arma4blas4gemvIdEEvPKcPKiS5_PKT_S8_S5_S8_S5_S8_PS6_S5_]+0x53): undefined reference to `dgemv_'
+/tmp/ccxg0KvB.o: In function `void arma::blas::gemm<double>(char const*, char const*, int const*, int const*, int const*, double const*, double const*, int const*, double const*, int const*, double const*, double*, int const*)':
+basic-openmpi.cpp:(.text._ZN4arma4blas4gemmIdEEvPKcS3_PKiS5_S5_PKT_S8_S5_S8_S5_S8_PS6_S5_[_ZN4arma4blas4gemmIdEEvPKcS3_PKiS5_S5_PKT_S8_S5_S8_S5_S8_PS6_S5_]+0x5f): undefined reference to `dgemm_'
+/tmp/ccxg0KvB.o: In function `void arma::blas::syrk<double>(char const*, char const*, int const*, int const*, double const*, double const*, int const*, double const*, double*, int const*)':
+basic-openmpi.cpp:(.text._ZN4arma4blas4syrkIdEEvPKcS3_PKiS5_PKT_S8_S5_S8_PS6_S5_[_ZN4arma4blas4syrkIdEEvPKcS3_PKiS5_PKT_S8_S5_S8_PS6_S5_]+0x52): undefined reference to `dsyrk_'
+/tmp/ccxg0KvB.o: In function `double arma::blas::dot<double>(unsigned long long, double const*, double const*)':
+basic-openmpi.cpp:(.text._ZN4arma4blas3dotIdEET_yPKS2_S4_[_ZN4arma4blas3dotIdEET_yPKS2_S4_]+0x3d): undefined reference to `ddot_'
+collect2: error: ld returned 1 exit status
+--------------------------------------------------------------------------
+mpiexec was unable to find the specified executable file, and therefore
+did not launch the job.  This error was first reported for process
+rank 0; it may have occurred for other processes as well.
+
+NOTE: A common cause for this error is misspelling a mpiexec command
+      line parameter option (remember that mpiexec interprets the first
+      unrecognized command line token as the executable).
+
+Node:       firefly01
+Executable: basic-openmpi
+--------------------------------------------------------------------------
+2 total processes failed to start

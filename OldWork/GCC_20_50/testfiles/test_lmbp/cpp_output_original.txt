@@ -1,0 +1,1028 @@
+Run: 1
+iteration: 1, mu=0.0001, J_total_sum =2.623398518303577, J_total_sum2=2.577300594138513
+iteration: 2, mu=1000000, J_total_sum =2.577300594138513, J_total_sum2=2.577300563227316
+reach min_gra 
+Run: 2
+iteration: 1, mu=0.001, J_total_sum =2.504507026812653, J_total_sum2=2.451739953081113
+iteration: 2, mu=0.0001, J_total_sum =2.451739953081113, J_total_sum2=2.409490743989506
+reach min_gra 
+Run: 3
+iteration: 1, mu=0.1, J_total_sum =2.412076898344713, J_total_sum2=2.313367370358387
+iteration: 2, mu=0.1, J_total_sum =2.313367370358387, J_total_sum2=2.301111958515064
+reach mu_max1
+reach mu_max 
+Run: 4
+iteration: 1, mu=0.0001, J_total_sum =2.426192890037297, J_total_sum2=2.403985782290085
+iteration: 2, mu=100000, J_total_sum =2.403985782290085, J_total_sum2=2.403978441040792
+reach mu_max 
+Run: 5
+iteration: 1, mu=1, J_total_sum =2.4478449378206, J_total_sum2=2.339474410423561
+iteration: 2, mu=1, J_total_sum =2.339474410423561, J_total_sum2=2.33620722575961
+iteration: 3, mu=10, J_total_sum =2.33620722575961, J_total_sum2=2.333608739101059
+iteration: 4, mu=10, J_total_sum =2.333608739101059, J_total_sum2=2.325570485880713
+iteration: 5, mu=1, J_total_sum =2.325570485880713, J_total_sum2=2.316696811151558
+reach mu_max1
+reach mu_max 
+Run: 6
+iteration: 1, mu=0.1, J_total_sum =2.512618169041874, J_total_sum2=2.464604577783358
+reach mu_max1
+reach mu_max 
+Run: 7
+iteration: 1, mu=0.1, J_total_sum =2.420812677882229, J_total_sum2=2.379241799723441
+reach mu_max1
+reach mu_max 
+Run: 8
+iteration: 1, mu=0.001, J_total_sum =2.59279081924203, J_total_sum2=2.563919072136455
+iteration: 2, mu=0.001, J_total_sum =2.563919072136455, J_total_sum2=2.548274832033166
+reach min_gra 
+Run: 9
+iteration: 1, mu=0.0001, J_total_sum =2.448478294953258, J_total_sum2=2.404381410354649
+reach mu_max1
+reach mu_max 
+Run: 10
+iteration: 1, mu=0.0001, J_total_sum =2.407364260684241, J_total_sum2=2.339342139241866
+iteration: 2, mu=0.1, J_total_sum =2.339342139241866, J_total_sum2=2.338525300883955
+reach min_gra 
+Run: 11
+iteration: 1, mu=0.001, J_total_sum =2.477582914926808, J_total_sum2=2.448775538944548
+reach mu_max1
+reach mu_max 
+Run: 12
+iteration: 1, mu=0.001, J_total_sum =2.622900161278344, J_total_sum2=2.561888594633472
+reach mu_max1
+reach min_gra 
+Run: 13
+iteration: 1, mu=0.001, J_total_sum =2.714332435820386, J_total_sum2=2.682779037447244
+iteration: 2, mu=0.01, J_total_sum =2.682779037447244, J_total_sum2=2.660270298447136
+reach mu_max1
+reach mu_max 
+Run: 14
+iteration: 1, mu=0.001, J_total_sum =2.459378694494098, J_total_sum2=2.455861883853795
+reach mu_max1
+reach min_gra 
+Run: 15
+iteration: 1, mu=0.001, J_total_sum =2.4354509169847, J_total_sum2=2.413763813721877
+reach mu_max1
+reach mu_max 
+Run: 16
+iteration: 1, mu=0.001, J_total_sum =2.448110165656602, J_total_sum2=2.415210423068052
+reach mu_max1
+reach mu_max 
+Run: 17
+iteration: 1, mu=0.0001, J_total_sum =2.50776731441151, J_total_sum2=2.465710340407567
+iteration: 2, mu=0.0001, J_total_sum =2.465710340407567, J_total_sum2=2.458492320183148
+reach min_gra 
+Run: 18
+iteration: 1, mu=0.1, J_total_sum =2.410828604816166, J_total_sum2=2.310637412790036
+iteration: 2, mu=1, J_total_sum =2.310637412790036, J_total_sum2=2.309420827163295
+reach mu_max1
+reach mu_max 
+Run: 19
+iteration: 1, mu=0.1, J_total_sum =2.409561702639247, J_total_sum2=2.308957137480053
+iteration: 2, mu=0.1, J_total_sum =2.308957137480053, J_total_sum2=2.306543045988734
+reach mu_max 
+Run: 20
+iteration: 1, mu=0.1, J_total_sum =2.422025360642225, J_total_sum2=2.31258432042177
+reach mu_max1
+reach mu_max 
+Run: 21
+iteration: 1, mu=1, J_total_sum =2.450813757754677, J_total_sum2=2.410377077119545
+iteration: 2, mu=1, J_total_sum =2.410377077119545, J_total_sum2=2.379342627053459
+iteration: 3, mu=1, J_total_sum =2.379342627053459, J_total_sum2=2.337447605412173
+iteration: 4, mu=0.1, J_total_sum =2.337447605412173, J_total_sum2=2.313571675036954
+iteration: 5, mu=10, J_total_sum =2.313571675036954, J_total_sum2=2.313516046323263
+iteration: 6, mu=10, J_total_sum =2.313516046323263, J_total_sum2=2.313223985345641
+iteration: 7, mu=1, J_total_sum =2.313223985345641, J_total_sum2=2.312053030347526
+iteration: 8, mu=0.1, J_total_sum =2.312053030347526, J_total_sum2=2.311828763486194
+reach mu_max 
+Run: 22
+iteration: 1, mu=0.1, J_total_sum =2.423987918749706, J_total_sum2=2.393857004609626
+reach mu_max1
+reach mu_max 
+Run: 23
+iteration: 1, mu=0.1, J_total_sum =2.513719888444168, J_total_sum2=2.454431988402062
+reach mu_max1
+reach mu_max 
+Run: 24
+iteration: 1, mu=0.001, J_total_sum =2.494760487531013, J_total_sum2=2.46482579954007
+iteration: 2, mu=1, J_total_sum =2.46482579954007, J_total_sum2=2.463071328793865
+reach min_gra 
+Run: 25
+iteration: 1, mu=0.0001, J_total_sum =2.412123902730984, J_total_sum2=2.396007403692789
+reach mu_max1
+reach mu_max 
+Run: 26
+iteration: 1, mu=0.0001, J_total_sum =2.632389912526565, J_total_sum2=2.564175008667781
+iteration: 2, mu=0.0001, J_total_sum =2.564175008667781, J_total_sum2=2.472186452078895
+reach min_gra 
+Run: 27
+iteration: 1, mu=0.1, J_total_sum =2.56266339218753, J_total_sum2=2.447626304591412
+iteration: 2, mu=10, J_total_sum =2.447626304591412, J_total_sum2=2.427030321520462
+reach mu_max1
+reach mu_max 
+Run: 28
+iteration: 1, mu=1, J_total_sum =2.451144619273934, J_total_sum2=2.354298063329489
+reach mu_max1
+reach mu_max 
+Run: 29
+iteration: 1, mu=0.001, J_total_sum =2.422909280411961, J_total_sum2=2.388714022166955
+reach mu_max1
+reach mu_max 
+Run: 30
+iteration: 1, mu=1, J_total_sum =2.424211578174996, J_total_sum2=2.32903361737503
+iteration: 2, mu=1, J_total_sum =2.32903361737503, J_total_sum2=2.326083185276979
+iteration: 3, mu=1, J_total_sum =2.326083185276979, J_total_sum2=2.307141184055191
+reach mu_max1
+reach mu_max 
+Run: 31
+iteration: 1, mu=0.1, J_total_sum =2.488104782280073, J_total_sum2=2.475080024464517
+reach mu_max1
+reach mu_max 
+Run: 32
+iteration: 1, mu=0.1, J_total_sum =2.422063339048822, J_total_sum2=2.412287986334416
+reach mu_max1
+reach mu_max 
+Run: 33
+iteration: 1, mu=0.001, J_total_sum =2.576133169874361, J_total_sum2=2.537681208829016
+reach min_gra 
+Run: 34
+iteration: 1, mu=0.0001, J_total_sum =2.486725996378258, J_total_sum2=2.404664197346277
+reach mu_max1
+reach min_gra 
+Run: 35
+iteration: 1, mu=0.0001, J_total_sum =2.417295359816404, J_total_sum2=2.396683363443873
+reach mu_max1
+reach mu_max 
+Run: 36
+iteration: 1, mu=0.01, J_total_sum =2.406383494715671, J_total_sum2=2.329793768622886
+reach mu_max1
+reach mu_max 
+Run: 37
+iteration: 1, mu=0.001, J_total_sum =2.539743095985457, J_total_sum2=2.480485350399108
+reach mu_max1
+reach min_gra 
+Run: 38
+iteration: 1, mu=0.001, J_total_sum =2.435981111465258, J_total_sum2=2.411850286882894
+reach mu_max1
+reach mu_max 
+Run: 39
+iteration: 1, mu=1, J_total_sum =2.431246164933563, J_total_sum2=2.341710577504293
+iteration: 2, mu=10, J_total_sum =2.341710577504293, J_total_sum2=2.337373389884376
+reach mu_max1
+reach mu_max 
+Run: 40
+iteration: 1, mu=0.0001, J_total_sum =2.538394493295934, J_total_sum2=2.489098563045486
+iteration: 2, mu=0.001, J_total_sum =2.489098563045486, J_total_sum2=2.487179667266965
+reach min_gra 
+Run: 41
+iteration: 1, mu=1, J_total_sum =2.449415885209928, J_total_sum2=2.402989991480895
+iteration: 2, mu=1, J_total_sum =2.402989991480895, J_total_sum2=2.370477639134517
+iteration: 3, mu=1, J_total_sum =2.370477639134517, J_total_sum2=2.350809275114462
+iteration: 4, mu=1000000, J_total_sum =2.350809275114462, J_total_sum2=2.350808786970162
+iteration: 5, mu=1000000, J_total_sum =2.350808786970162, J_total_sum2=2.350808290749303
+iteration: 6, mu=1000000, J_total_sum =2.350808290749303, J_total_sum2=2.350807818604939
+iteration: 7, mu=1000000, J_total_sum =2.350807818604939, J_total_sum2=2.350807341624677
+iteration: 8, mu=1000000, J_total_sum =2.350807341624677, J_total_sum2=2.350806804177881
+iteration: 9, mu=1000000, J_total_sum =2.350806804177881, J_total_sum2=2.350806280313149
+iteration: 10, mu=1000000, J_total_sum =2.350806280313149, J_total_sum2=2.350805806149704
+iteration: 11, mu=1000000, J_total_sum =2.350805806149704, J_total_sum2=2.350805307600355
+iteration: 12, mu=1000000, J_total_sum =2.350805307600355, J_total_sum2=2.350804821471232
+iteration: 13, mu=1000000, J_total_sum =2.350804821471232, J_total_sum2=2.350804337438251
+iteration: 14, mu=1000000, J_total_sum =2.350804337438251, J_total_sum2=2.350803893561611
+iteration: 15, mu=1000000, J_total_sum =2.350803893561611, J_total_sum2=2.350803367774912
+iteration: 16, mu=1000000, J_total_sum =2.350803367774912, J_total_sum2=2.350802826145321
+iteration: 17, mu=1000000, J_total_sum =2.350802826145321, J_total_sum2=2.350802357774517
+iteration: 18, mu=1000000, J_total_sum =2.350802357774517, J_total_sum2=2.350801857387134
+iteration: 19, mu=1000000, J_total_sum =2.350801857387134, J_total_sum2=2.350801386432597
+iteration: 20, mu=1000000, J_total_sum =2.350801386432597, J_total_sum2=2.350800935694406
+iteration: 21, mu=1000000, J_total_sum =2.350800935694406, J_total_sum2=2.350800440480021
+iteration: 22, mu=1000000, J_total_sum =2.350800440480021, J_total_sum2=2.350799911531672
+iteration: 23, mu=1000000, J_total_sum =2.350799911531672, J_total_sum2=2.350799383990726
+iteration: 24, mu=1000000, J_total_sum =2.350799383990726, J_total_sum2=2.350798912588439
+iteration: 25, mu=1000000, J_total_sum =2.350798912588439, J_total_sum2=2.350798450571744
+iteration: 26, mu=1000000, J_total_sum =2.350798450571744, J_total_sum2=2.350797937132313
+iteration: 27, mu=1000000, J_total_sum =2.350797937132313, J_total_sum2=2.350797421861756
+iteration: 28, mu=1000000, J_total_sum =2.350797421861756, J_total_sum2=2.350796897783708
+iteration: 29, mu=1000000, J_total_sum =2.350796897783708, J_total_sum2=2.350796432450556
+iteration: 30, mu=1000000, J_total_sum =2.350796432450556, J_total_sum2=2.350795924111178
+iteration: 31, mu=1000000, J_total_sum =2.350795924111178, J_total_sum2=2.350795465199699
+iteration: 32, mu=1000000, J_total_sum =2.350795465199699, J_total_sum2=2.350795000890486
+iteration: 33, mu=1000000, J_total_sum =2.350795000890486, J_total_sum2=2.350794483764311
+iteration: 34, mu=1000000, J_total_sum =2.350794483764311, J_total_sum2=2.350793946820712
+iteration: 35, mu=1000000, J_total_sum =2.350793946820712, J_total_sum2=2.350793392644257
+iteration: 36, mu=1000000, J_total_sum =2.350793392644257, J_total_sum2=2.350792907789399
+iteration: 37, mu=1000000, J_total_sum =2.350792907789399, J_total_sum2=2.350792399452573
+iteration: 38, mu=1000000, J_total_sum =2.350792399452573, J_total_sum2=2.35079189423825
+iteration: 39, mu=1000000, J_total_sum =2.35079189423825, J_total_sum2=2.350791456207808
+iteration: 40, mu=1000000, J_total_sum =2.350791456207808, J_total_sum2=2.350790976853963
+iteration: 41, mu=1000000, J_total_sum =2.350790976853963, J_total_sum2=2.350790464923685
+iteration: 42, mu=1000000, J_total_sum =2.350790464923685, J_total_sum2=2.350790012202513
+iteration: 43, mu=1000000, J_total_sum =2.350790012202513, J_total_sum2=2.350789493302861
+iteration: 44, mu=1000000, J_total_sum =2.350789493302861, J_total_sum2=2.350788908647535
+iteration: 45, mu=1000000, J_total_sum =2.350788908647535, J_total_sum2=2.350788418905798
+iteration: 46, mu=1000000, J_total_sum =2.350788418905798, J_total_sum2=2.350787917659181
+iteration: 47, mu=1000000, J_total_sum =2.350787917659181, J_total_sum2=2.350787456135479
+iteration: 48, mu=1000000, J_total_sum =2.350787456135479, J_total_sum2=2.350786947919177
+iteration: 49, mu=1000000, J_total_sum =2.350786947919177, J_total_sum2=2.350786401058604
+iteration: 50, mu=1000000, J_total_sum =2.350786401058604, J_total_sum2=2.350785927613738
+iteration: 51, mu=1000000, J_total_sum =2.350785927613738, J_total_sum2=2.350785435952641
+iteration: 52, mu=1000000, J_total_sum =2.350785435952641, J_total_sum2=2.350784905274176
+iteration: 53, mu=1000000, J_total_sum =2.350784905274176, J_total_sum2=2.350784372318112
+iteration: 54, mu=1000000, J_total_sum =2.350784372318112, J_total_sum2=2.350783821825242
+iteration: 55, mu=1000000, J_total_sum =2.350783821825242, J_total_sum2=2.350783358530407
+iteration: 56, mu=1000000, J_total_sum =2.350783358530407, J_total_sum2=2.350782913974885
+iteration: 57, mu=1000000, J_total_sum =2.350782913974885, J_total_sum2=2.350782404347746
+iteration: 58, mu=1000000, J_total_sum =2.350782404347746, J_total_sum2=2.350781920903538
+iteration: 59, mu=1000000, J_total_sum =2.350781920903538, J_total_sum2=2.350781429180855
+iteration: 60, mu=1000000, J_total_sum =2.350781429180855, J_total_sum2=2.350780930158755
+iteration: 61, mu=1000000, J_total_sum =2.350780930158755, J_total_sum2=2.350780404159195
+iteration: 62, mu=1000000, J_total_sum =2.350780404159195, J_total_sum2=2.350779921997157
+iteration: 63, mu=1000000, J_total_sum =2.350779921997157, J_total_sum2=2.350779448694932
+iteration: 64, mu=1000000, J_total_sum =2.350779448694932, J_total_sum2=2.350778931142252
+iteration: 65, mu=1000000, J_total_sum =2.350778931142252, J_total_sum2=2.350778421034151
+iteration: 66, mu=1000000, J_total_sum =2.350778421034151, J_total_sum2=2.350777908274424
+iteration: 67, mu=1000000, J_total_sum =2.350777908274424, J_total_sum2=2.350777398131782
+iteration: 68, mu=1000000, J_total_sum =2.350777398131782, J_total_sum2=2.350776878862336
+iteration: 69, mu=1000000, J_total_sum =2.350776878862336, J_total_sum2=2.350776357682753
+iteration: 70, mu=1000000, J_total_sum =2.350776357682753, J_total_sum2=2.350775876599744
+iteration: 71, mu=1000000, J_total_sum =2.350775876599744, J_total_sum2=2.350775338998684
+iteration: 72, mu=1000000, J_total_sum =2.350775338998684, J_total_sum2=2.350774823549115
+iteration: 73, mu=1000000, J_total_sum =2.350774823549115, J_total_sum2=2.350774326347574
+iteration: 74, mu=1000000, J_total_sum =2.350774326347574, J_total_sum2=2.3507738483478
+iteration: 75, mu=1000000, J_total_sum =2.3507738483478, J_total_sum2=2.350773369219459
+iteration: 76, mu=1000000, J_total_sum =2.350773369219459, J_total_sum2=2.350772824280119
+iteration: 77, mu=1000000, J_total_sum =2.350772824280119, J_total_sum2=2.3507723020743
+iteration: 78, mu=1000000, J_total_sum =2.3507723020743, J_total_sum2=2.350771778380005
+iteration: 79, mu=1000000, J_total_sum =2.350771778380005, J_total_sum2=2.350771267536785
+iteration: 80, mu=1000000, J_total_sum =2.350771267536785, J_total_sum2=2.350770778029855
+iteration: 81, mu=1000000, J_total_sum =2.350770778029855, J_total_sum2=2.35077027475982
+iteration: 82, mu=1000000, J_total_sum =2.35077027475982, J_total_sum2=2.35076972478684
+iteration: 83, mu=1000000, J_total_sum =2.35076972478684, J_total_sum2=2.350769205392391
+iteration: 84, mu=1000000, J_total_sum =2.350769205392391, J_total_sum2=2.350768699798012
+iteration: 85, mu=1000000, J_total_sum =2.350768699798012, J_total_sum2=2.350768183082116
+iteration: 86, mu=1000000, J_total_sum =2.350768183082116, J_total_sum2=2.350767683659608
+iteration: 87, mu=1000000, J_total_sum =2.350767683659608, J_total_sum2=2.350767137020318
+iteration: 88, mu=1000000, J_total_sum =2.350767137020318, J_total_sum2=2.350766599253085
+iteration: 89, mu=1000000, J_total_sum =2.350766599253085, J_total_sum2=2.350766080012932
+iteration: 90, mu=1000000, J_total_sum =2.350766080012932, J_total_sum2=2.350765558212892
+iteration: 91, mu=1000000, J_total_sum =2.350765558212892, J_total_sum2=2.350765064796869
+iteration: 92, mu=1000000, J_total_sum =2.350765064796869, J_total_sum2=2.350764528163693
+iteration: 93, mu=1000000, J_total_sum =2.350764528163693, J_total_sum2=2.350764042570172
+iteration: 94, mu=1000000, J_total_sum =2.350764042570172, J_total_sum2=2.350763530674228
+iteration: 95, mu=1000000, J_total_sum =2.350763530674228, J_total_sum2=2.35076292406639
+iteration: 96, mu=1000000, J_total_sum =2.35076292406639, J_total_sum2=2.350762447855737
+iteration: 97, mu=1000000, J_total_sum =2.350762447855737, J_total_sum2=2.350761894047848
+iteration: 98, mu=1000000, J_total_sum =2.350761894047848, J_total_sum2=2.350761408335123
+iteration: 99, mu=1000000, J_total_sum =2.350761408335123, J_total_sum2=2.350760863080139
+iteration: 100, mu=1000000, J_total_sum =2.350760863080139, J_total_sum2=2.350760333173304
+iteration: 101, mu=1000000, J_total_sum =2.350760333173304, J_total_sum2=2.350759778036259
+iteration: 102, mu=1000000, J_total_sum =2.350759778036259, J_total_sum2=2.350759244174492
+iteration: 103, mu=1000000, J_total_sum =2.350759244174492, J_total_sum2=2.350758724659571
+iteration: 104, mu=1000000, J_total_sum =2.350758724659571, J_total_sum2=2.350758178746956
+iteration: 105, mu=1000000, J_total_sum =2.350758178746956, J_total_sum2=2.350757661567438
+iteration: 106, mu=1000000, J_total_sum =2.350757661567438, J_total_sum2=2.350757192098171
+iteration: 107, mu=1000000, J_total_sum =2.350757192098171, J_total_sum2=2.350756660788912
+iteration: 108, mu=1000000, J_total_sum =2.350756660788912, J_total_sum2=2.350756143909743
+iteration: 109, mu=1000000, J_total_sum =2.350756143909743, J_total_sum2=2.350755658653458
+iteration: 110, mu=1000000, J_total_sum =2.350755658653458, J_total_sum2=2.35075506923769
+iteration: 111, mu=1000000, J_total_sum =2.35075506923769, J_total_sum2=2.35075448309422
+iteration: 112, mu=1000000, J_total_sum =2.35075448309422, J_total_sum2=2.350753963829004
+iteration: 113, mu=1000000, J_total_sum =2.350753963829004, J_total_sum2=2.35075343157866
+iteration: 114, mu=1000000, J_total_sum =2.35075343157866, J_total_sum2=2.350752891409822
+iteration: 115, mu=1000000, J_total_sum =2.350752891409822, J_total_sum2=2.350752340669409
+iteration: 116, mu=1000000, J_total_sum =2.350752340669409, J_total_sum2=2.350751840859266
+iteration: 117, mu=1000000, J_total_sum =2.350751840859266, J_total_sum2=2.350751285718501
+iteration: 118, mu=1000000, J_total_sum =2.350751285718501, J_total_sum2=2.350750712130461
+iteration: 119, mu=1000000, J_total_sum =2.350750712130461, J_total_sum2=2.350750112202217
+iteration: 120, mu=1000000, J_total_sum =2.350750112202217, J_total_sum2=2.350749586727404
+iteration: 121, mu=1000000, J_total_sum =2.350749586727404, J_total_sum2=2.350749014545623
+iteration: 122, mu=1000000, J_total_sum =2.350749014545623, J_total_sum2=2.350748481035357
+iteration: 123, mu=1000000, J_total_sum =2.350748481035357, J_total_sum2=2.350747935864717
+iteration: 124, mu=1000000, J_total_sum =2.350747935864717, J_total_sum2=2.350747371013868
+iteration: 125, mu=1000000, J_total_sum =2.350747371013868, J_total_sum2=2.35074686961803
+iteration: 126, mu=1000000, J_total_sum =2.35074686961803, J_total_sum2=2.350746275965478
+iteration: 127, mu=1000000, J_total_sum =2.350746275965478, J_total_sum2=2.350745690101081
+iteration: 128, mu=1000000, J_total_sum =2.350745690101081, J_total_sum2=2.350745182518708
+Run: 42
+iteration: 1, mu=0.001, J_total_sum =2.443133052715126, J_total_sum2=2.420827236632384
+reach mu_max1
+reach mu_max 
+Run: 43
+iteration: 1, mu=1, J_total_sum =2.433917829280001, J_total_sum2=2.338774933113613
+reach mu_max1
+reach mu_max 
+Run: 44
+iteration: 1, mu=0.1, J_total_sum =2.510538366058976, J_total_sum2=2.478512367261394
+reach mu_max1
+reach mu_max 
+Run: 45
+iteration: 1, mu=0.001, J_total_sum =2.446436600475469, J_total_sum2=2.41557442276681
+reach mu_max1
+reach mu_max 
+Run: 46
+iteration: 1, mu=0.001, J_total_sum =2.483158997312013, J_total_sum2=2.476438111326126
+iteration: 2, mu=0.0001, J_total_sum =2.476438111326126, J_total_sum2=2.414255797415132
+reach min_gra 
+Run: 47
+iteration: 1, mu=0.001, J_total_sum =2.434251009754504, J_total_sum2=2.417380109103914
+reach mu_max1
+reach mu_max 
+Run: 48
+iteration: 1, mu=0.01, J_total_sum =2.406596948450957, J_total_sum2=2.332966525100597
+reach mu_max1
+reach mu_max 
+Run: 49
+iteration: 1, mu=1, J_total_sum =2.440238884749096, J_total_sum2=2.404868947030681
+iteration: 2, mu=0.1, J_total_sum =2.404868947030681, J_total_sum2=2.369017887861379
+iteration: 3, mu=100000000, J_total_sum =2.369017887861379, J_total_sum2=2.369017861119127
+iteration: 4, mu=100000000, J_total_sum =2.369017861119127, J_total_sum2=2.369017834348683
+iteration: 5, mu=100000000, J_total_sum =2.369017834348683, J_total_sum2=2.369017807735169
+iteration: 6, mu=100000000, J_total_sum =2.369017807735169, J_total_sum2=2.369017780954632
+iteration: 7, mu=100000000, J_total_sum =2.369017780954632, J_total_sum2=2.369017754390411
+iteration: 8, mu=100000000, J_total_sum =2.369017754390411, J_total_sum2=2.3690177275662
+iteration: 9, mu=100000000, J_total_sum =2.3690177275662, J_total_sum2=2.369017700749356
+iteration: 10, mu=100000000, J_total_sum =2.369017700749356, J_total_sum2=2.369017674030442
+iteration: 11, mu=100000000, J_total_sum =2.369017674030442, J_total_sum2=2.369017647503767
+iteration: 12, mu=100000000, J_total_sum =2.369017647503767, J_total_sum2=2.369017620907
+iteration: 13, mu=100000000, J_total_sum =2.369017620907, J_total_sum2=2.369017594272658
+iteration: 14, mu=100000000, J_total_sum =2.369017594272658, J_total_sum2=2.369017567551751
+iteration: 15, mu=100000000, J_total_sum =2.369017567551751, J_total_sum2=2.369017540727262
+iteration: 16, mu=100000000, J_total_sum =2.369017540727262, J_total_sum2=2.369017513908454
+iteration: 17, mu=100000000, J_total_sum =2.369017513908454, J_total_sum2=2.369017487151699
+iteration: 18, mu=100000000, J_total_sum =2.369017487151699, J_total_sum2=2.369017460257425
+iteration: 19, mu=100000000, J_total_sum =2.369017460257425, J_total_sum2=2.36901743363556
+iteration: 20, mu=100000000, J_total_sum =2.36901743363556, J_total_sum2=2.369017407009491
+iteration: 21, mu=100000000, J_total_sum =2.369017407009491, J_total_sum2=2.369017380436666
+iteration: 22, mu=100000000, J_total_sum =2.369017380436666, J_total_sum2=2.369017353670511
+iteration: 23, mu=100000000, J_total_sum =2.369017353670511, J_total_sum2=2.369017327082755
+iteration: 24, mu=100000000, J_total_sum =2.369017327082755, J_total_sum2=2.369017300443535
+iteration: 25, mu=100000000, J_total_sum =2.369017300443535, J_total_sum2=2.36901727375465
+iteration: 26, mu=100000000, J_total_sum =2.36901727375465, J_total_sum2=2.369017247186056
+iteration: 27, mu=100000000, J_total_sum =2.369017247186056, J_total_sum2=2.369017220369857
+iteration: 28, mu=100000000, J_total_sum =2.369017220369857, J_total_sum2=2.369017193635474
+iteration: 29, mu=100000000, J_total_sum =2.369017193635474, J_total_sum2=2.36901716677544
+iteration: 30, mu=100000000, J_total_sum =2.36901716677544, J_total_sum2=2.369017140010943
+iteration: 31, mu=100000000, J_total_sum =2.369017140010943, J_total_sum2=2.369017113228939
+iteration: 32, mu=100000000, J_total_sum =2.369017113228939, J_total_sum2=2.369017086566845
+iteration: 33, mu=100000000, J_total_sum =2.369017086566845, J_total_sum2=2.36901705973257
+iteration: 34, mu=100000000, J_total_sum =2.36901705973257, J_total_sum2=2.369017033178463
+iteration: 35, mu=100000000, J_total_sum =2.369017033178463, J_total_sum2=2.369017006551975
+iteration: 36, mu=100000000, J_total_sum =2.369017006551975, J_total_sum2=2.369016979668936
+iteration: 37, mu=100000000, J_total_sum =2.369016979668936, J_total_sum2=2.369016952947955
+iteration: 38, mu=100000000, J_total_sum =2.369016952947955, J_total_sum2=2.369016926138095
+iteration: 39, mu=100000000, J_total_sum =2.369016926138095, J_total_sum2=2.369016899293232
+iteration: 40, mu=100000000, J_total_sum =2.369016899293232, J_total_sum2=2.369016872678014
+iteration: 41, mu=100000000, J_total_sum =2.369016872678014, J_total_sum2=2.369016845974153
+iteration: 42, mu=100000000, J_total_sum =2.369016845974153, J_total_sum2=2.369016819212863
+iteration: 43, mu=100000000, J_total_sum =2.369016819212863, J_total_sum2=2.369016792180394
+iteration: 44, mu=100000000, J_total_sum =2.369016792180394, J_total_sum2=2.369016765364541
+iteration: 45, mu=100000000, J_total_sum =2.369016765364541, J_total_sum2=2.369016738515154
+iteration: 46, mu=100000000, J_total_sum =2.369016738515154, J_total_sum2=2.369016711945468
+iteration: 47, mu=100000000, J_total_sum =2.369016711945468, J_total_sum2=2.369016685162104
+iteration: 48, mu=100000000, J_total_sum =2.369016685162104, J_total_sum2=2.369016658386505
+iteration: 49, mu=100000000, J_total_sum =2.369016658386505, J_total_sum2=2.369016631815494
+iteration: 50, mu=100000000, J_total_sum =2.369016631815494, J_total_sum2=2.369016605177812
+iteration: 51, mu=100000000, J_total_sum =2.369016605177812, J_total_sum2=2.369016578356094
+iteration: 52, mu=100000000, J_total_sum =2.369016578356094, J_total_sum2=2.369016551643971
+iteration: 53, mu=100000000, J_total_sum =2.369016551643971, J_total_sum2=2.369016524950504
+iteration: 54, mu=100000000, J_total_sum =2.369016524950504, J_total_sum2=2.369016498207677
+iteration: 55, mu=100000000, J_total_sum =2.369016498207677, J_total_sum2=2.369016471369227
+iteration: 56, mu=100000000, J_total_sum =2.369016471369227, J_total_sum2=2.369016444481757
+iteration: 57, mu=100000000, J_total_sum =2.369016444481757, J_total_sum2=2.369016417822006
+iteration: 58, mu=100000000, J_total_sum =2.369016417822006, J_total_sum2=2.369016391181098
+iteration: 59, mu=100000000, J_total_sum =2.369016391181098, J_total_sum2=2.369016364454579
+iteration: 60, mu=100000000, J_total_sum =2.369016364454579, J_total_sum2=2.369016337702755
+iteration: 61, mu=100000000, J_total_sum =2.369016337702755, J_total_sum2=2.369016311234697
+iteration: 62, mu=100000000, J_total_sum =2.369016311234697, J_total_sum2=2.369016284485936
+iteration: 63, mu=100000000, J_total_sum =2.369016284485936, J_total_sum2=2.369016257808046
+iteration: 64, mu=100000000, J_total_sum =2.369016257808046, J_total_sum2=2.369016231043107
+iteration: 65, mu=100000000, J_total_sum =2.369016231043107, J_total_sum2=2.369016204465758
+iteration: 66, mu=100000000, J_total_sum =2.369016204465758, J_total_sum2=2.369016177660841
+iteration: 67, mu=100000000, J_total_sum =2.369016177660841, J_total_sum2=2.369016150885517
+iteration: 68, mu=100000000, J_total_sum =2.369016150885517, J_total_sum2=2.369016124112504
+iteration: 69, mu=100000000, J_total_sum =2.369016124112504, J_total_sum2=2.369016097217347
+iteration: 70, mu=100000000, J_total_sum =2.369016097217347, J_total_sum2=2.369016070312175
+iteration: 71, mu=100000000, J_total_sum =2.369016070312175, J_total_sum2=2.36901604352896
+iteration: 72, mu=100000000, J_total_sum =2.36901604352896, J_total_sum2=2.3690160167762
+iteration: 73, mu=100000000, J_total_sum =2.3690160167762, J_total_sum2=2.369015990185498
+iteration: 74, mu=100000000, J_total_sum =2.369015990185498, J_total_sum2=2.369015963543739
+iteration: 75, mu=100000000, J_total_sum =2.369015963543739, J_total_sum2=2.369015936868757
+iteration: 76, mu=100000000, J_total_sum =2.369015936868757, J_total_sum2=2.369015910150578
+iteration: 77, mu=100000000, J_total_sum =2.369015910150578, J_total_sum2=2.369015883515491
+iteration: 78, mu=100000000, J_total_sum =2.369015883515491, J_total_sum2=2.369015856787848
+iteration: 79, mu=100000000, J_total_sum =2.369015856787848, J_total_sum2=2.369015830154786
+iteration: 80, mu=100000000, J_total_sum =2.369015830154786, J_total_sum2=2.369015803506183
+iteration: 81, mu=100000000, J_total_sum =2.369015803506183, J_total_sum2=2.369015776883476
+iteration: 82, mu=100000000, J_total_sum =2.369015776883476, J_total_sum2=2.369015750298833
+iteration: 83, mu=100000000, J_total_sum =2.369015750298833, J_total_sum2=2.369015723592026
+iteration: 84, mu=100000000, J_total_sum =2.369015723592026, J_total_sum2=2.369015696714635
+iteration: 85, mu=100000000, J_total_sum =2.369015696714635, J_total_sum2=2.369015669895261
+iteration: 86, mu=100000000, J_total_sum =2.369015669895261, J_total_sum2=2.369015643248532
+iteration: 87, mu=100000000, J_total_sum =2.369015643248532, J_total_sum2=2.369015616563286
+iteration: 88, mu=100000000, J_total_sum =2.369015616563286, J_total_sum2=2.369015589978189
+iteration: 89, mu=100000000, J_total_sum =2.369015589978189, J_total_sum2=2.369015563256953
+iteration: 90, mu=100000000, J_total_sum =2.369015563256953, J_total_sum2=2.369015536369129
+iteration: 91, mu=100000000, J_total_sum =2.369015536369129, J_total_sum2=2.369015509666303
+iteration: 92, mu=100000000, J_total_sum =2.369015509666303, J_total_sum2=2.36901548287499
+iteration: 93, mu=100000000, J_total_sum =2.36901548287499, J_total_sum2=2.369015456121929
+iteration: 94, mu=100000000, J_total_sum =2.369015456121929, J_total_sum2=2.369015429417423
+iteration: 95, mu=100000000, J_total_sum =2.369015429417423, J_total_sum2=2.369015402727311
+iteration: 96, mu=100000000, J_total_sum =2.369015402727311, J_total_sum2=2.369015375994207
+iteration: 97, mu=100000000, J_total_sum =2.369015375994207, J_total_sum2=2.369015349183864
+iteration: 98, mu=100000000, J_total_sum =2.369015349183864, J_total_sum2=2.36901532232574
+iteration: 99, mu=100000000, J_total_sum =2.36901532232574, J_total_sum2=2.369015295572261
+iteration: 100, mu=100000000, J_total_sum =2.369015295572261, J_total_sum2=2.369015268856751
+iteration: 101, mu=100000000, J_total_sum =2.369015268856751, J_total_sum2=2.3690152420441
+iteration: 102, mu=100000000, J_total_sum =2.3690152420441, J_total_sum2=2.369015215291701
+iteration: 103, mu=100000000, J_total_sum =2.369015215291701, J_total_sum2=2.36901518851261
+iteration: 104, mu=100000000, J_total_sum =2.36901518851261, J_total_sum2=2.369015161963611
+iteration: 105, mu=100000000, J_total_sum =2.369015161963611, J_total_sum2=2.369015135209065
+iteration: 106, mu=100000000, J_total_sum =2.369015135209065, J_total_sum2=2.369015108412679
+iteration: 107, mu=100000000, J_total_sum =2.369015108412679, J_total_sum2=2.369015081691924
+iteration: 108, mu=100000000, J_total_sum =2.369015081691924, J_total_sum2=2.369015054996908
+iteration: 109, mu=100000000, J_total_sum =2.369015054996908, J_total_sum2=2.369015028209965
+iteration: 110, mu=100000000, J_total_sum =2.369015028209965, J_total_sum2=2.369015001305669
+iteration: 111, mu=100000000, J_total_sum =2.369015001305669, J_total_sum2=2.369014974578944
+iteration: 112, mu=100000000, J_total_sum =2.369014974578944, J_total_sum2=2.369014947848748
+iteration: 113, mu=100000000, J_total_sum =2.369014947848748, J_total_sum2=2.369014921203382
+iteration: 114, mu=100000000, J_total_sum =2.369014921203382, J_total_sum2=2.369014894508549
+iteration: 115, mu=100000000, J_total_sum =2.369014894508549, J_total_sum2=2.369014867861737
+iteration: 116, mu=100000000, J_total_sum =2.369014867861737, J_total_sum2=2.369014841246715
+iteration: 117, mu=100000000, J_total_sum =2.369014841246715, J_total_sum2=2.369014814618367
+iteration: 118, mu=100000000, J_total_sum =2.369014814618367, J_total_sum2=2.369014787832887
+iteration: 119, mu=100000000, J_total_sum =2.369014787832887, J_total_sum2=2.369014761160351
+iteration: 120, mu=100000000, J_total_sum =2.369014761160351, J_total_sum2=2.369014734424717
+iteration: 121, mu=100000000, J_total_sum =2.369014734424717, J_total_sum2=2.369014707614874
+iteration: 122, mu=100000000, J_total_sum =2.369014707614874, J_total_sum2=2.369014680977777
+iteration: 123, mu=100000000, J_total_sum =2.369014680977777, J_total_sum2=2.369014654195764
+iteration: 124, mu=100000000, J_total_sum =2.369014654195764, J_total_sum2=2.369014627524293
+iteration: 125, mu=100000000, J_total_sum =2.369014627524293, J_total_sum2=2.369014600715541
+iteration: 126, mu=100000000, J_total_sum =2.369014600715541, J_total_sum2=2.369014573953827
+iteration: 127, mu=100000000, J_total_sum =2.369014573953827, J_total_sum2=2.369014547084814
+iteration: 128, mu=100000000, J_total_sum =2.369014547084814, J_total_sum2=2.369014520470185
+Run: 50
+iteration: 1, mu=0.0001, J_total_sum =2.42486885972897, J_total_sum2=2.412656052326653
+iteration: 2, mu=1e-05, J_total_sum =2.412656052326653, J_total_sum2=2.341979171824777
+reach min_gra 
+Run: 51
+iteration: 1, mu=0.001, J_total_sum =2.453000411105338, J_total_sum2=2.431705214377594
+reach mu_max1
+reach mu_max 
+Run: 52
+iteration: 1, mu=0.0001, J_total_sum =2.506228435329467, J_total_sum2=2.437920981248532
+reach mu_max1
+reach min_gra 
+Run: 53
+iteration: 1, mu=0.001, J_total_sum =2.481407227969883, J_total_sum2=2.433849204175667
+iteration: 2, mu=0.001, J_total_sum =2.433849204175667, J_total_sum2=2.377561930778359
+reach min_gra 
+Run: 54
+iteration: 1, mu=0.0001, J_total_sum =2.439890590013208, J_total_sum2=2.390084721893817
+iteration: 2, mu=1000, J_total_sum =2.390084721893817, J_total_sum2=2.390065986948274
+iteration: 3, mu=100000, J_total_sum =2.390065986948274, J_total_sum2=2.390065866053899
+iteration: 4, mu=100000, J_total_sum =2.390065866053899, J_total_sum2=2.390065747230476
+iteration: 5, mu=100000, J_total_sum =2.390065747230476, J_total_sum2=2.39006564033877
+iteration: 6, mu=100000, J_total_sum =2.39006564033877, J_total_sum2=2.390065510411489
+iteration: 7, mu=100000, J_total_sum =2.390065510411489, J_total_sum2=2.390065402160992
+iteration: 8, mu=100000, J_total_sum =2.390065402160992, J_total_sum2=2.390065285696728
+iteration: 9, mu=100000, J_total_sum =2.390065285696728, J_total_sum2=2.390065164066771
+iteration: 10, mu=100000, J_total_sum =2.390065164066771, J_total_sum2=2.390065054694106
+iteration: 11, mu=100000, J_total_sum =2.390065054694106, J_total_sum2=2.390064929960692
+iteration: 12, mu=100000, J_total_sum =2.390064929960692, J_total_sum2=2.39006483651884
+iteration: 13, mu=1000000, J_total_sum =2.39006483651884, J_total_sum2=2.390064825121795
+iteration: 14, mu=100000, J_total_sum =2.390064825121795, J_total_sum2=2.390064717046519
+iteration: 15, mu=100000, J_total_sum =2.390064717046519, J_total_sum2=2.390064591882938
+iteration: 16, mu=1000000, J_total_sum =2.390064591882938, J_total_sum2=2.39006458018881
+iteration: 17, mu=100000, J_total_sum =2.39006458018881, J_total_sum2=2.390064468603283
+iteration: 18, mu=100000, J_total_sum =2.390064468603283, J_total_sum2=2.390064417401774
+iteration: 19, mu=1000000, J_total_sum =2.390064417401774, J_total_sum2=2.390064405803619
+iteration: 20, mu=100000, J_total_sum =2.390064405803619, J_total_sum2=2.390064317254195
+iteration: 21, mu=100000, J_total_sum =2.390064317254195, J_total_sum2=2.390064192651509
+iteration: 22, mu=1000000, J_total_sum =2.390064192651509, J_total_sum2=2.3900641809065
+iteration: 23, mu=100000, J_total_sum =2.3900641809065, J_total_sum2=2.390064066609384
+iteration: 24, mu=100000, J_total_sum =2.390064066609384, J_total_sum2=2.390063957857596
+iteration: 25, mu=1000000, J_total_sum =2.390063957857596, J_total_sum2=2.390063945948221
+iteration: 26, mu=100000, J_total_sum =2.390063945948221, J_total_sum2=2.390063819760438
+iteration: 27, mu=100000, J_total_sum =2.390063819760438, J_total_sum2=2.390063725232932
+iteration: 28, mu=100000, J_total_sum =2.390063725232932, J_total_sum2=2.390063613680047
+iteration: 29, mu=100000, J_total_sum =2.390063613680047, J_total_sum2=2.390063499886266
+iteration: 30, mu=1000000, J_total_sum =2.390063499886266, J_total_sum2=2.39006348786383
+iteration: 31, mu=100000, J_total_sum =2.39006348786383, J_total_sum2=2.390063357329652
+iteration: 32, mu=100000, J_total_sum =2.390063357329652, J_total_sum2=2.390063224086441
+iteration: 33, mu=100000, J_total_sum =2.390063224086441, J_total_sum2=2.390063110502706
+iteration: 34, mu=100000, J_total_sum =2.390063110502706, J_total_sum2=2.390063010146418
+iteration: 35, mu=100000, J_total_sum =2.390063010146418, J_total_sum2=2.390062868293448
+iteration: 36, mu=1000000, J_total_sum =2.390062868293448, J_total_sum2=2.390062855873364
+iteration: 37, mu=100000, J_total_sum =2.390062855873364, J_total_sum2=2.390062833975693
+iteration: 38, mu=100000, J_total_sum =2.390062833975693, J_total_sum2=2.390062701623429
+iteration: 39, mu=100000, J_total_sum =2.390062701623429, J_total_sum2=2.390062602394148
+iteration: 40, mu=100000, J_total_sum =2.390062602394148, J_total_sum2=2.390062479831246
+iteration: 41, mu=100000, J_total_sum =2.390062479831246, J_total_sum2=2.390062335614941
+iteration: 42, mu=100000, J_total_sum =2.390062335614941, J_total_sum2=2.390062226802141
+iteration: 43, mu=1000000, J_total_sum =2.390062226802141, J_total_sum2=2.390062214129808
+iteration: 44, mu=100000, J_total_sum =2.390062214129808, J_total_sum2=2.390062087379717
+iteration: 45, mu=100000, J_total_sum =2.390062087379717, J_total_sum2=2.390062011794994
+iteration: 46, mu=100000, J_total_sum =2.390062011794994, J_total_sum2=2.390061878241803
+iteration: 47, mu=1000000, J_total_sum =2.390061878241803, J_total_sum2=2.390061865297465
+iteration: 48, mu=100000, J_total_sum =2.390061865297465, J_total_sum2=2.390061704280879
+iteration: 49, mu=1000000, J_total_sum =2.390061704280879, J_total_sum2=2.390061691235125
+iteration: 50, mu=1000000, J_total_sum =2.390061691235125, J_total_sum2=2.390061678111682
+iteration: 51, mu=100000, J_total_sum =2.390061678111682, J_total_sum2=2.390061547483535
+iteration: 52, mu=100000, J_total_sum =2.390061547483535, J_total_sum2=2.390061419524796
+iteration: 53, mu=1000000, J_total_sum =2.390061419524796, J_total_sum2=2.390061406205784
+iteration: 54, mu=100000, J_total_sum =2.390061406205784, J_total_sum2=2.390061269074863
+iteration: 55, mu=100000, J_total_sum =2.390061269074863, J_total_sum2=2.390061149031194
+iteration: 56, mu=100000, J_total_sum =2.390061149031194, J_total_sum2=2.390061006293925
+iteration: 57, mu=100000, J_total_sum =2.390061006293925, J_total_sum2=2.390060876208904
+iteration: 58, mu=100000, J_total_sum =2.390060876208904, J_total_sum2=2.390060661724994
+iteration: 59, mu=100000, J_total_sum =2.390060661724994, J_total_sum2=2.390060486352374
+iteration: 60, mu=1000000, J_total_sum =2.390060486352374, J_total_sum2=2.390060472758147
+iteration: 61, mu=100000, J_total_sum =2.390060472758147, J_total_sum2=2.390060328976453
+iteration: 62, mu=100000, J_total_sum =2.390060328976453, J_total_sum2=2.390060215158421
+iteration: 63, mu=100000, J_total_sum =2.390060215158421, J_total_sum2=2.390060086820271
+iteration: 64, mu=100000, J_total_sum =2.390060086820271, J_total_sum2=2.39005995492423
+iteration: 65, mu=100000, J_total_sum =2.39005995492423, J_total_sum2=2.39005980752418
+iteration: 66, mu=100000, J_total_sum =2.39005980752418, J_total_sum2=2.390059679219966
+iteration: 67, mu=100000, J_total_sum =2.390059679219966, J_total_sum2=2.390059563145597
+iteration: 68, mu=100000, J_total_sum =2.390059563145597, J_total_sum2=2.390059435502991
+iteration: 69, mu=100000, J_total_sum =2.390059435502991, J_total_sum2=2.390059285399983
+iteration: 70, mu=100000, J_total_sum =2.390059285399983, J_total_sum2=2.39005913870712
+iteration: 71, mu=100000, J_total_sum =2.39005913870712, J_total_sum2=2.39005899636186
+iteration: 72, mu=100000, J_total_sum =2.39005899636186, J_total_sum2=2.390058854176781
+iteration: 73, mu=100000, J_total_sum =2.390058854176781, J_total_sum2=2.390058693812569
+iteration: 74, mu=100000, J_total_sum =2.390058693812569, J_total_sum2=2.390058549235298
+iteration: 75, mu=100000, J_total_sum =2.390058549235298, J_total_sum2=2.390058361657984
+iteration: 76, mu=100000, J_total_sum =2.390058361657984, J_total_sum2=2.390058207427747
+iteration: 77, mu=100000, J_total_sum =2.390058207427747, J_total_sum2=2.390058043342767
+iteration: 78, mu=1000000, J_total_sum =2.390058043342767, J_total_sum2=2.390058028400031
+iteration: 79, mu=100000, J_total_sum =2.390058028400031, J_total_sum2=2.390057869294693
+iteration: 80, mu=100000, J_total_sum =2.390057869294693, J_total_sum2=2.390057823511871
+iteration: 81, mu=100000, J_total_sum =2.390057823511871, J_total_sum2=2.39005769941567
+iteration: 82, mu=100000, J_total_sum =2.39005769941567, J_total_sum2=2.390057552202621
+iteration: 83, mu=100000, J_total_sum =2.390057552202621, J_total_sum2=2.390057405475775
+iteration: 84, mu=100000, J_total_sum =2.390057405475775, J_total_sum2=2.390057180831556
+iteration: 85, mu=100000, J_total_sum =2.390057180831556, J_total_sum2=2.390057026668027
+iteration: 86, mu=100000, J_total_sum =2.390057026668027, J_total_sum2=2.390056884938892
+iteration: 87, mu=100000, J_total_sum =2.390056884938892, J_total_sum2=2.390056754221133
+iteration: 88, mu=100000, J_total_sum =2.390056754221133, J_total_sum2=2.390056565191461
+iteration: 89, mu=100000, J_total_sum =2.390056565191461, J_total_sum2=2.390056391269098
+iteration: 90, mu=100000, J_total_sum =2.390056391269098, J_total_sum2=2.390056238019055
+iteration: 91, mu=100000, J_total_sum =2.390056238019055, J_total_sum2=2.390056085406064
+iteration: 92, mu=100000, J_total_sum =2.390056085406064, J_total_sum2=2.390055935799523
+iteration: 93, mu=100000, J_total_sum =2.390055935799523, J_total_sum2=2.390055792242612
+iteration: 94, mu=100000, J_total_sum =2.390055792242612, J_total_sum2=2.39005561439328
+iteration: 95, mu=100000, J_total_sum =2.39005561439328, J_total_sum2=2.39005546176951
+iteration: 96, mu=100000, J_total_sum =2.39005546176951, J_total_sum2=2.390055290010829
+iteration: 97, mu=100000, J_total_sum =2.390055290010829, J_total_sum2=2.390055124578543
+iteration: 98, mu=100000, J_total_sum =2.390055124578543, J_total_sum2=2.390054962437917
+iteration: 99, mu=100000, J_total_sum =2.390054962437917, J_total_sum2=2.390054769781417
+iteration: 100, mu=100000, J_total_sum =2.390054769781417, J_total_sum2=2.390054627162049
+iteration: 101, mu=100000, J_total_sum =2.390054627162049, J_total_sum2=2.390054448311052
+iteration: 102, mu=100000, J_total_sum =2.390054448311052, J_total_sum2=2.390054288847772
+iteration: 103, mu=100000, J_total_sum =2.390054288847772, J_total_sum2=2.390054094049574
+iteration: 104, mu=100000, J_total_sum =2.390054094049574, J_total_sum2=2.390053910886141
+iteration: 105, mu=100000, J_total_sum =2.390053910886141, J_total_sum2=2.390053709000632
+iteration: 106, mu=100000, J_total_sum =2.390053709000632, J_total_sum2=2.390053515518502
+iteration: 107, mu=100000, J_total_sum =2.390053515518502, J_total_sum2=2.390053312113789
+iteration: 108, mu=100000, J_total_sum =2.390053312113789, J_total_sum2=2.390053103077616
+iteration: 109, mu=100000, J_total_sum =2.390053103077616, J_total_sum2=2.390052891158319
+iteration: 110, mu=100000, J_total_sum =2.390052891158319, J_total_sum2=2.390052707006156
+iteration: 111, mu=100000, J_total_sum =2.390052707006156, J_total_sum2=2.390052499711111
+iteration: 112, mu=100000, J_total_sum =2.390052499711111, J_total_sum2=2.3900522943558
+iteration: 113, mu=100000, J_total_sum =2.3900522943558, J_total_sum2=2.390052080016767
+iteration: 114, mu=100000, J_total_sum =2.390052080016767, J_total_sum2=2.390051870184922
+iteration: 115, mu=100000, J_total_sum =2.390051870184922, J_total_sum2=2.390051653488313
+iteration: 116, mu=100000, J_total_sum =2.390051653488313, J_total_sum2=2.390051438850399
+iteration: 117, mu=100000, J_total_sum =2.390051438850399, J_total_sum2=2.390051210414797
+iteration: 118, mu=100000, J_total_sum =2.390051210414797, J_total_sum2=2.390050983956812
+iteration: 119, mu=100000, J_total_sum =2.390050983956812, J_total_sum2=2.390050766894519
+iteration: 120, mu=100000, J_total_sum =2.390050766894519, J_total_sum2=2.390050532461135
+iteration: 121, mu=100000, J_total_sum =2.390050532461135, J_total_sum2=2.390050297286238
+iteration: 122, mu=100000, J_total_sum =2.390050297286238, J_total_sum2=2.390050060541089
+iteration: 123, mu=100000, J_total_sum =2.390050060541089, J_total_sum2=2.390049807820036
+iteration: 124, mu=100000, J_total_sum =2.390049807820036, J_total_sum2=2.390049567145349
+iteration: 125, mu=100000, J_total_sum =2.390049567145349, J_total_sum2=2.390049325089148
+iteration: 126, mu=100000, J_total_sum =2.390049325089148, J_total_sum2=2.390049067960799
+iteration: 127, mu=100000, J_total_sum =2.390049067960799, J_total_sum2=2.390048810504815
+iteration: 128, mu=100000, J_total_sum =2.390048810504815, J_total_sum2=2.390048537796199
+Run: 55
+iteration: 1, mu=0.001, J_total_sum =2.533347858392257, J_total_sum2=2.50556562949164
+iteration: 2, mu=1, J_total_sum =2.50556562949164, J_total_sum2=2.505415630966063
+reach min_gra 
+Run: 56
+iteration: 1, mu=0.0001, J_total_sum =2.41246834345337, J_total_sum2=2.343271766236888
+reach min_gra 
+Run: 57
+iteration: 1, mu=0.001, J_total_sum =2.466040827238063, J_total_sum2=2.42041660323263
+reach mu_max1
+reach min_gra 
+Run: 58
+iteration: 1, mu=0.01, J_total_sum =2.412432880614334, J_total_sum2=2.380726147194455
+reach mu_max1
+reach mu_max 
+Run: 59
+iteration: 1, mu=0.0001, J_total_sum =2.410184325141126, J_total_sum2=2.346251064402142
+iteration: 2, mu=0.01, J_total_sum =2.346251064402142, J_total_sum2=2.339176173948056
+iteration: 3, mu=0.01, J_total_sum =2.339176173948056, J_total_sum2=2.338959615836532
+reach min_gra 
+Run: 60
+iteration: 1, mu=0.01, J_total_sum =2.412178939319721, J_total_sum2=2.35951248499391
+iteration: 2, mu=0.01, J_total_sum =2.35951248499391, J_total_sum2=2.354280646944807
+iteration: 3, mu=0.001, J_total_sum =2.354280646944807, J_total_sum2=2.294927598641316
+reach min_gra 
+Run: 61
+iteration: 1, mu=0.001, J_total_sum =2.6257177215134, J_total_sum2=2.588663821475214
+iteration: 2, mu=0.01, J_total_sum =2.588663821475214, J_total_sum2=2.571307331299129
+reach mu_max1
+reach mu_max 
+Run: 62
+iteration: 1, mu=0.001, J_total_sum =2.489055880974417, J_total_sum2=2.478433754559402
+iteration: 2, mu=0.001, J_total_sum =2.478433754559402, J_total_sum2=2.38464778249346
+reach min_gra 
+Run: 63
+iteration: 1, mu=0.0001, J_total_sum =2.421467209970535, J_total_sum2=2.411193917693628
+iteration: 2, mu=100, J_total_sum =2.411193917693628, J_total_sum2=2.411172674441181
+reach min_gra 
+Run: 64
+iteration: 1, mu=1, J_total_sum =2.463429078528175, J_total_sum2=2.407040422666867
+iteration: 2, mu=1, J_total_sum =2.407040422666867, J_total_sum2=2.375813163917003
+iteration: 3, mu=10, J_total_sum =2.375813163917003, J_total_sum2=2.36600768311096
+iteration: 4, mu=100000, J_total_sum =2.36600768311096, J_total_sum2=2.366003534575962
+iteration: 5, mu=100000, J_total_sum =2.366003534575962, J_total_sum2=2.366000606176361
+iteration: 6, mu=100000, J_total_sum =2.366000606176361, J_total_sum2=2.365998915677069
+iteration: 7, mu=100000, J_total_sum =2.365998915677069, J_total_sum2=2.365998481202545
+iteration: 8, mu=1000000, J_total_sum =2.365998481202545, J_total_sum2=2.365998451142041
+iteration: 9, mu=1000000, J_total_sum =2.365998451142041, J_total_sum2=2.365998433929584
+iteration: 10, mu=1000000, J_total_sum =2.365998433929584, J_total_sum2=2.365998429585761
+iteration: 11, mu=10000000, J_total_sum =2.365998429585761, J_total_sum2=2.365998429230826
+iteration: 12, mu=10000000, J_total_sum =2.365998429230826, J_total_sum2=2.365998429004875
+iteration: 13, mu=10000000, J_total_sum =2.365998429004875, J_total_sum2=2.365998428907929
+iteration: 14, mu=100000000, J_total_sum =2.365998428907929, J_total_sum2=2.365998428898968
+iteration: 15, mu=100000000, J_total_sum =2.365998428898968, J_total_sum2=2.365998428891298
+iteration: 16, mu=100000000, J_total_sum =2.365998428891298, J_total_sum2=2.365998428884917
+iteration: 17, mu=100000000, J_total_sum =2.365998428884917, J_total_sum2=2.365998428879828
+iteration: 18, mu=100000000, J_total_sum =2.365998428879828, J_total_sum2=2.365998428876027
+iteration: 19, mu=100000000, J_total_sum =2.365998428876027, J_total_sum2=2.365998428873519
+iteration: 20, mu=100000000, J_total_sum =2.365998428873519, J_total_sum2=2.3659984288723
+reach mu_max 
+Run: 65
+iteration: 1, mu=0.01, J_total_sum =2.414898210508936, J_total_sum2=2.390598336582146
+reach mu_max1
+reach mu_max 
+Run: 66
+iteration: 1, mu=1, J_total_sum =2.437874479585444, J_total_sum2=2.375340213336823
+iteration: 2, mu=10, J_total_sum =2.375340213336823, J_total_sum2=2.366946109397113
+iteration: 3, mu=100, J_total_sum =2.366946109397113, J_total_sum2=2.364287240192346
+iteration: 4, mu=10, J_total_sum =2.364287240192346, J_total_sum2=2.363909007276195
+iteration: 5, mu=1, J_total_sum =2.363909007276195, J_total_sum2=2.315981857062166
+iteration: 6, mu=100, J_total_sum =2.315981857062166, J_total_sum2=2.314862930113579
+reach mu_max1
+reach mu_max 
+Run: 67
+iteration: 1, mu=0.001, J_total_sum =2.599972405689004, J_total_sum2=2.551582559610648
+reach mu_max1
+reach mu_max 
+Run: 68
+iteration: 1, mu=0.0001, J_total_sum =2.461382399685304, J_total_sum2=2.447254862527033
+iteration: 2, mu=100000000, J_total_sum =2.447254862527033, J_total_sum2=2.447254862171814
+reach min_gra 
+Run: 69
+iteration: 1, mu=0.01, J_total_sum =2.408322235942864, J_total_sum2=2.349601864426691
+reach mu_max1
+reach mu_max 
+Run: 70
+iteration: 1, mu=1, J_total_sum =2.48026801839404, J_total_sum2=2.420660124890244
+iteration: 2, mu=1, J_total_sum =2.420660124890244, J_total_sum2=2.386212140095244
+iteration: 3, mu=10, J_total_sum =2.386212140095244, J_total_sum2=2.381860116252438
+iteration: 4, mu=1, J_total_sum =2.381860116252438, J_total_sum2=2.372914581410717
+iteration: 5, mu=1, J_total_sum =2.372914581410717, J_total_sum2=2.364138610505052
+iteration: 6, mu=100, J_total_sum =2.364138610505052, J_total_sum2=2.362355853136264
+iteration: 7, mu=100, J_total_sum =2.362355853136264, J_total_sum2=2.361131219825613
+iteration: 8, mu=100, J_total_sum =2.361131219825613, J_total_sum2=2.359845543189706
+iteration: 9, mu=100, J_total_sum =2.359845543189706, J_total_sum2=2.358588976844088
+iteration: 10, mu=100, J_total_sum =2.358588976844088, J_total_sum2=2.35739647890364
+iteration: 11, mu=100, J_total_sum =2.35739647890364, J_total_sum2=2.356224138342885
+iteration: 12, mu=100, J_total_sum =2.356224138342885, J_total_sum2=2.355018320047047
+iteration: 13, mu=100, J_total_sum =2.355018320047047, J_total_sum2=2.353741930800805
+iteration: 14, mu=100, J_total_sum =2.353741930800805, J_total_sum2=2.352367265041919
+iteration: 15, mu=100, J_total_sum =2.352367265041919, J_total_sum2=2.350866274859525
+iteration: 16, mu=10, J_total_sum =2.350866274859525, J_total_sum2=2.350690906655705
+iteration: 17, mu=10, J_total_sum =2.350690906655705, J_total_sum2=2.350056354322344
+iteration: 18, mu=10, J_total_sum =2.350056354322344, J_total_sum2=2.348151007443786
+iteration: 19, mu=1, J_total_sum =2.348151007443786, J_total_sum2=2.347657826909733
+iteration: 20, mu=0.1, J_total_sum =2.347657826909733, J_total_sum2=2.338124898845098
+iteration: 21, mu=10, J_total_sum =2.338124898845098, J_total_sum2=2.337179125292236
+iteration: 22, mu=1, J_total_sum =2.337179125292236, J_total_sum2=2.335839962742475
+iteration: 23, mu=100, J_total_sum =2.335839962742475, J_total_sum2=2.335141857319076
+iteration: 24, mu=100, J_total_sum =2.335141857319076, J_total_sum2=2.334973263670981
+iteration: 25, mu=1000, J_total_sum =2.334973263670981, J_total_sum2=2.334786347679608
+iteration: 26, mu=1000, J_total_sum =2.334786347679608, J_total_sum2=2.334657746907705
+iteration: 27, mu=1000, J_total_sum =2.334657746907705, J_total_sum2=2.334576598178991
+iteration: 28, mu=1000, J_total_sum =2.334576598178991, J_total_sum2=2.334533812649242
+iteration: 29, mu=1000, J_total_sum =2.334533812649242, J_total_sum2=2.334514704147683
+iteration: 30, mu=1000, J_total_sum =2.334514704147683, J_total_sum2=2.334491049268544
+iteration: 31, mu=100, J_total_sum =2.334491049268544, J_total_sum2=2.334377197960332
+iteration: 32, mu=10, J_total_sum =2.334377197960332, J_total_sum2=2.332553097366098
+iteration: 33, mu=1, J_total_sum =2.332553097366098, J_total_sum2=2.325121251490246
+reach mu_max1
+reach mu_max 
+Run: 71
+iteration: 1, mu=0.001, J_total_sum =2.490170095887926, J_total_sum2=2.481591308296915
+iteration: 2, mu=1000000, J_total_sum =2.481591308296915, J_total_sum2=2.481591126889048
+reach min_gra 
+Run: 72
+iteration: 1, mu=0.1, J_total_sum =2.41477504733863, J_total_sum2=2.316535554316736
+reach mu_max1
+reach mu_max 
+Run: 73
+iteration: 1, mu=0.001, J_total_sum =2.433220094366958, J_total_sum2=2.432696697672963
+reach mu_max1
+reach mu_max 
+Run: 74
+iteration: 1, mu=0.0001, J_total_sum =2.456919889018515, J_total_sum2=2.376850765819954
+iteration: 2, mu=0.01, J_total_sum =2.376850765819954, J_total_sum2=2.343397645810504
+reach min_gra 
+Run: 75
+iteration: 1, mu=0.001, J_total_sum =2.645076450306225, J_total_sum2=2.577396194398749
+reach mu_max 
+Run: 76
+iteration: 1, mu=0.0001, J_total_sum =2.543413771120184, J_total_sum2=2.520232391917331
+iteration: 2, mu=0.01, J_total_sum =2.520232391917331, J_total_sum2=2.516165288355691
+reach min_gra 
+Run: 77
+iteration: 1, mu=0.0001, J_total_sum =2.537652508180001, J_total_sum2=2.534828369184373
+iteration: 2, mu=0.001, J_total_sum =2.534828369184373, J_total_sum2=2.501328576212014
+reach min_gra 
+Run: 78
+iteration: 1, mu=0.001, J_total_sum =2.46756757525319, J_total_sum2=2.467556722938001
+reach mu_max1
+reach min_gra 
+Run: 79
+iteration: 1, mu=1, J_total_sum =2.45034442549495, J_total_sum2=2.402466903017782
+iteration: 2, mu=0.1, J_total_sum =2.402466903017782, J_total_sum2=2.368811229934491
+iteration: 3, mu=0.1, J_total_sum =2.368811229934491, J_total_sum2=2.349015350033023
+reach mu_max1
+reach mu_max 
+Run: 80
+iteration: 1, mu=1, J_total_sum =2.437964802174834, J_total_sum2=2.334154869148554
+iteration: 2, mu=10, J_total_sum =2.334154869148554, J_total_sum2=2.320517072324991
+iteration: 3, mu=10, J_total_sum =2.320517072324991, J_total_sum2=2.311969270848723
+iteration: 4, mu=1, J_total_sum =2.311969270848723, J_total_sum2=2.309816260468632
+reach mu_max 
+Run: 81
+iteration: 1, mu=0.0001, J_total_sum =2.499164085567469, J_total_sum2=2.470428818736014
+iteration: 2, mu=100, J_total_sum =2.470428818736014, J_total_sum2=2.470427954400288
+reach min_gra 
+Run: 82
+iteration: 1, mu=0.1, J_total_sum =2.417537647605752, J_total_sum2=2.322805254537687
+reach mu_max1
+reach mu_max 
+Run: 83
+iteration: 1, mu=1, J_total_sum =2.458388128263906, J_total_sum2=2.419189271539059
+iteration: 2, mu=0.1, J_total_sum =2.419189271539059, J_total_sum2=2.414469796378704
+iteration: 3, mu=0.01, J_total_sum =2.414469796378704, J_total_sum2=2.402222806891587
+iteration: 4, mu=1, J_total_sum =2.402222806891587, J_total_sum2=2.401903135559766
+iteration: 5, mu=0.1, J_total_sum =2.401903135559766, J_total_sum2=2.401276510016316
+iteration: 6, mu=100, J_total_sum =2.401276510016316, J_total_sum2=2.401241192164007
+reach mu_max 
+Run: 84
+iteration: 1, mu=0.001, J_total_sum =2.588235518307229, J_total_sum2=2.584762831732407
+reach mu_max1
+reach mu_max 
+Run: 85
+iteration: 1, mu=0.1, J_total_sum =2.4206191982663, J_total_sum2=2.312206893968439
+reach mu_max 
+Run: 86
+iteration: 1, mu=0.01, J_total_sum =2.407382813722188, J_total_sum2=2.360313715066628
+iteration: 2, mu=0.001, J_total_sum =2.360313715066628, J_total_sum2=2.339640867316987
+iteration: 3, mu=0.0001, J_total_sum =2.339640867316987, J_total_sum2=2.328141984926332
+reach mu_max1
+reach mu_max 
+Run: 87
+iteration: 1, mu=0.0001, J_total_sum =2.416812454127731, J_total_sum2=2.341210434166747
+iteration: 2, mu=1000, J_total_sum =2.341210434166747, J_total_sum2=2.341207808564538
+iteration: 3, mu=100, J_total_sum =2.341207808564538, J_total_sum2=2.341157474757756
+iteration: 4, mu=100, J_total_sum =2.341157474757756, J_total_sum2=2.341059326451343
+iteration: 5, mu=10000, J_total_sum =2.341059326451343, J_total_sum2=2.341055537840376
+iteration: 6, mu=10000, J_total_sum =2.341055537840376, J_total_sum2=2.341050833803311
+iteration: 7, mu=10000, J_total_sum =2.341050833803311, J_total_sum2=2.341042320261263
+reach mu_max 
+Run: 88
+iteration: 1, mu=0.001, J_total_sum =2.53213487809975, J_total_sum2=2.46853762151438
+reach mu_max1
+reach min_gra 
+Run: 89
+iteration: 1, mu=1, J_total_sum =2.481276269091783, J_total_sum2=2.434084589682347
+iteration: 2, mu=1, J_total_sum =2.434084589682347, J_total_sum2=2.418891953944049
+iteration: 3, mu=1, J_total_sum =2.418891953944049, J_total_sum2=2.380320745305688
+iteration: 4, mu=100, J_total_sum =2.380320745305688, J_total_sum2=2.366297478651398
+iteration: 5, mu=10, J_total_sum =2.366297478651398, J_total_sum2=2.354086192774714
+iteration: 6, mu=10, J_total_sum =2.354086192774714, J_total_sum2=2.348253726578958
+iteration: 7, mu=10, J_total_sum =2.348253726578958, J_total_sum2=2.342693560738228
+iteration: 8, mu=10, J_total_sum =2.342693560738228, J_total_sum2=2.341347231712581
+iteration: 9, mu=10, J_total_sum =2.341347231712581, J_total_sum2=2.340754813242478
+iteration: 10, mu=10, J_total_sum =2.340754813242478, J_total_sum2=2.340735501782818
+iteration: 11, mu=10, J_total_sum =2.340735501782818, J_total_sum2=2.34050338928233
+iteration: 12, mu=10, J_total_sum =2.34050338928233, J_total_sum2=2.340227108260154
+iteration: 13, mu=1, J_total_sum =2.340227108260154, J_total_sum2=2.34016342229099
+iteration: 14, mu=10, J_total_sum =2.34016342229099, J_total_sum2=2.339882264028867
+iteration: 15, mu=1, J_total_sum =2.339882264028867, J_total_sum2=2.337193831494391
+iteration: 16, mu=1, J_total_sum =2.337193831494391, J_total_sum2=2.335941571173084
+iteration: 17, mu=1, J_total_sum =2.335941571173084, J_total_sum2=2.333844687530052
+iteration: 18, mu=100, J_total_sum =2.333844687530052, J_total_sum2=2.33313360764509
+iteration: 19, mu=100, J_total_sum =2.33313360764509, J_total_sum2=2.332575119477421
+iteration: 20, mu=10, J_total_sum =2.332575119477421, J_total_sum2=2.3318181764385
+iteration: 21, mu=10, J_total_sum =2.3318181764385, J_total_sum2=2.33109564459083
+iteration: 22, mu=10, J_total_sum =2.33109564459083, J_total_sum2=2.330819624667769
+iteration: 23, mu=100, J_total_sum =2.330819624667769, J_total_sum2=2.330776089507907
+iteration: 24, mu=100, J_total_sum =2.330776089507907, J_total_sum2=2.330731203531285
+iteration: 25, mu=100, J_total_sum =2.330731203531285, J_total_sum2=2.3306872757818
+iteration: 26, mu=100, J_total_sum =2.3306872757818, J_total_sum2=2.330643765593553
+iteration: 27, mu=10, J_total_sum =2.330643765593553, J_total_sum2=2.33026436619689
+iteration: 28, mu=10, J_total_sum =2.33026436619689, J_total_sum2=2.330069785659509
+iteration: 29, mu=10, J_total_sum =2.330069785659509, J_total_sum2=2.329975345333715
+iteration: 30, mu=100, J_total_sum =2.329975345333715, J_total_sum2=2.329958021643658
+iteration: 31, mu=100, J_total_sum =2.329958021643658, J_total_sum2=2.329947530946582
+iteration: 32, mu=100, J_total_sum =2.329947530946582, J_total_sum2=2.3299423712516
+iteration: 33, mu=100, J_total_sum =2.3299423712516, J_total_sum2=2.32994004234187
+iteration: 34, mu=100, J_total_sum =2.32994004234187, J_total_sum2=2.329938236141304
+iteration: 35, mu=100, J_total_sum =2.329938236141304, J_total_sum2=2.329935023700048
+iteration: 36, mu=100, J_total_sum =2.329935023700048, J_total_sum2=2.329928553274135
+iteration: 37, mu=100, J_total_sum =2.329928553274135, J_total_sum2=2.329916313403362
+iteration: 38, mu=100, J_total_sum =2.329916313403362, J_total_sum2=2.329896070994769
+iteration: 39, mu=100, J_total_sum =2.329896070994769, J_total_sum2=2.329889305742426
+reach mu_max 
+Run: 90
+iteration: 1, mu=0.0001, J_total_sum =2.417429722500869, J_total_sum2=2.382479760023199
+reach mu_max1
+reach mu_max 
+Run: 91
+iteration: 1, mu=1, J_total_sum =2.435596087708646, J_total_sum2=2.378466029591172
+iteration: 2, mu=10, J_total_sum =2.378466029591172, J_total_sum2=2.373088771816279
+iteration: 3, mu=1, J_total_sum =2.373088771816279, J_total_sum2=2.372010189737751
+iteration: 4, mu=0.1, J_total_sum =2.372010189737751, J_total_sum2=2.360734236402221
+reach mu_max1
+reach mu_max 
+Run: 92
+iteration: 1, mu=0.1, J_total_sum =2.519632639618078, J_total_sum2=2.448336238059474
+iteration: 2, mu=100, J_total_sum =2.448336238059474, J_total_sum2=2.421070016440478
+iteration: 3, mu=10, J_total_sum =2.421070016440478, J_total_sum2=2.389699913921121
+reach mu_max1
+reach mu_max 
+Run: 93
+iteration: 1, mu=0.1, J_total_sum =2.49261367565318, J_total_sum2=2.46797092222993
+reach mu_max1
+reach mu_max 
+Run: 94
+iteration: 1, mu=0.001, J_total_sum =2.616930752389158, J_total_sum2=2.587998620431378
+iteration: 2, mu=1, J_total_sum =2.587998620431378, J_total_sum2=2.587896363357974
+reach min_gra 
+Run: 95
+iteration: 1, mu=0.01, J_total_sum =2.419424862238392, J_total_sum2=2.379632517361903
+iteration: 2, mu=10000, J_total_sum =2.379632517361903, J_total_sum2=2.379553780440883
+iteration: 3, mu=1000, J_total_sum =2.379553780440883, J_total_sum2=2.37900484086392
+iteration: 4, mu=10000000, J_total_sum =2.37900484086392, J_total_sum2=2.379004518009256
+iteration: 5, mu=10000000, J_total_sum =2.379004518009256, J_total_sum2=2.379004283189174
+iteration: 6, mu=100000000, J_total_sum =2.379004283189174, J_total_sum2=2.379004252248909
+iteration: 7, mu=10000000, J_total_sum =2.379004252248909, J_total_sum2=2.379003946773403
+iteration: 8, mu=100000000, J_total_sum =2.379003946773403, J_total_sum2=2.379003915750944
+iteration: 9, mu=10000000, J_total_sum =2.379003915750944, J_total_sum2=2.379003568605388
+iteration: 10, mu=10000000, J_total_sum =2.379003568605388, J_total_sum2=2.379003264172632
+iteration: 11, mu=10000000, J_total_sum =2.379003264172632, J_total_sum2=2.379002935859839
+iteration: 12, mu=10000000, J_total_sum =2.379002935859839, J_total_sum2=2.379002548412302
+iteration: 13, mu=10000000, J_total_sum =2.379002548412302, J_total_sum2=2.379002226267805
+iteration: 14, mu=10000000, J_total_sum =2.379002226267805, J_total_sum2=2.37900185617693
+iteration: 15, mu=100000000, J_total_sum =2.37900185617693, J_total_sum2=2.379001825407284
+iteration: 16, mu=100000000, J_total_sum =2.379001825407284, J_total_sum2=2.379001794435058
+iteration: 17, mu=10000000, J_total_sum =2.379001794435058, J_total_sum2=2.379001399418031
+iteration: 18, mu=10000000, J_total_sum =2.379001399418031, J_total_sum2=2.379001054980055
+iteration: 19, mu=10000000, J_total_sum =2.379001054980055, J_total_sum2=2.379000753424645
+iteration: 20, mu=10000000, J_total_sum =2.379000753424645, J_total_sum2=2.379000366241272
+iteration: 21, mu=10000000, J_total_sum =2.379000366241272, J_total_sum2=2.379000044162364
+iteration: 22, mu=10000000, J_total_sum =2.379000044162364, J_total_sum2=2.378999689867968
+iteration: 23, mu=100000000, J_total_sum =2.378999689867968, J_total_sum2=2.378999658890522
+iteration: 24, mu=10000000, J_total_sum =2.378999658890522, J_total_sum2=2.378999332380532
+iteration: 25, mu=10000000, J_total_sum =2.378999332380532, J_total_sum2=2.378999024470191
+iteration: 26, mu=10000000, J_total_sum =2.378999024470191, J_total_sum2=2.378998677401433
+iteration: 27, mu=10000000, J_total_sum =2.378998677401433, J_total_sum2=2.37899837954832
+iteration: 28, mu=10000000, J_total_sum =2.37899837954832, J_total_sum2=2.378998062729705
+iteration: 29, mu=10000000, J_total_sum =2.378998062729705, J_total_sum2=2.378997750050164
+iteration: 30, mu=10000000, J_total_sum =2.378997750050164, J_total_sum2=2.378997404953086
+iteration: 31, mu=10000000, J_total_sum =2.378997404953086, J_total_sum2=2.378997102885183
+iteration: 32, mu=10000000, J_total_sum =2.378997102885183, J_total_sum2=2.37899675786791
+iteration: 33, mu=10000000, J_total_sum =2.37899675786791, J_total_sum2=2.378996399100199
+iteration: 34, mu=10000000, J_total_sum =2.378996399100199, J_total_sum2=2.378996060941057
+iteration: 35, mu=10000000, J_total_sum =2.378996060941057, J_total_sum2=2.378995750308444
+iteration: 36, mu=10000000, J_total_sum =2.378995750308444, J_total_sum2=2.378995412676679
+iteration: 37, mu=10000000, J_total_sum =2.378995412676679, J_total_sum2=2.378995078455242
+iteration: 38, mu=100000000, J_total_sum =2.378995078455242, J_total_sum2=2.378995047575603
+iteration: 39, mu=10000000, J_total_sum =2.378995047575603, J_total_sum2=2.378994735942301
+iteration: 40, mu=10000000, J_total_sum =2.378994735942301, J_total_sum2=2.378994409547015
+iteration: 41, mu=10000000, J_total_sum =2.378994409547015, J_total_sum2=2.378994059866047
+iteration: 42, mu=10000000, J_total_sum =2.378994059866047, J_total_sum2=2.378993715001777
+iteration: 43, mu=10000000, J_total_sum =2.378993715001777, J_total_sum2=2.378993387227213
+iteration: 44, mu=10000000, J_total_sum =2.378993387227213, J_total_sum2=2.378993046284526
+iteration: 45, mu=10000000, J_total_sum =2.378993046284526, J_total_sum2=2.378992748468884
+iteration: 46, mu=10000000, J_total_sum =2.378992748468884, J_total_sum2=2.378992406790818
+iteration: 47, mu=10000000, J_total_sum =2.378992406790818, J_total_sum2=2.378992098658035
+iteration: 48, mu=10000000, J_total_sum =2.378992098658035, J_total_sum2=2.378991762827478
+iteration: 49, mu=10000000, J_total_sum =2.378991762827478, J_total_sum2=2.378991438801993
+iteration: 50, mu=10000000, J_total_sum =2.378991438801993, J_total_sum2=2.378991125348033
+iteration: 51, mu=10000000, J_total_sum =2.378991125348033, J_total_sum2=2.378990767299253
+iteration: 52, mu=10000000, J_total_sum =2.378990767299253, J_total_sum2=2.37899045960367
+iteration: 53, mu=10000000, J_total_sum =2.37899045960367, J_total_sum2=2.378990141030454
+iteration: 54, mu=10000000, J_total_sum =2.378990141030454, J_total_sum2=2.378989820817486
+iteration: 55, mu=10000000, J_total_sum =2.378989820817486, J_total_sum2=2.378989504239433
+iteration: 56, mu=10000000, J_total_sum =2.378989504239433, J_total_sum2=2.378989167486582
+iteration: 57, mu=10000000, J_total_sum =2.378989167486582, J_total_sum2=2.378988829070879
+iteration: 58, mu=10000000, J_total_sum =2.378988829070879, J_total_sum2=2.378988512108685
+iteration: 59, mu=10000000, J_total_sum =2.378988512108685, J_total_sum2=2.378988183073405
+iteration: 60, mu=10000000, J_total_sum =2.378988183073405, J_total_sum2=2.378987854350954
+iteration: 61, mu=10000000, J_total_sum =2.378987854350954, J_total_sum2=2.378987513997961
+iteration: 62, mu=10000000, J_total_sum =2.378987513997961, J_total_sum2=2.378987192539231
+iteration: 63, mu=10000000, J_total_sum =2.378987192539231, J_total_sum2=2.378986886530455
+iteration: 64, mu=10000000, J_total_sum =2.378986886530455, J_total_sum2=2.378986567556009
+iteration: 65, mu=10000000, J_total_sum =2.378986567556009, J_total_sum2=2.378986247057644
+iteration: 66, mu=10000000, J_total_sum =2.378986247057644, J_total_sum2=2.37898592253767
+iteration: 67, mu=10000000, J_total_sum =2.37898592253767, J_total_sum2=2.378985587453143
+iteration: 68, mu=10000000, J_total_sum =2.378985587453143, J_total_sum2=2.378985258744485
+iteration: 69, mu=10000000, J_total_sum =2.378985258744485, J_total_sum2=2.378984942796613
+iteration: 70, mu=10000000, J_total_sum =2.378984942796613, J_total_sum2=2.378984630023987
+iteration: 71, mu=10000000, J_total_sum =2.378984630023987, J_total_sum2=2.37898430344421
+iteration: 72, mu=10000000, J_total_sum =2.37898430344421, J_total_sum2=2.378983986531277
+iteration: 73, mu=10000000, J_total_sum =2.378983986531277, J_total_sum2=2.378983670606384
+iteration: 74, mu=10000000, J_total_sum =2.378983670606384, J_total_sum2=2.378983344879813
+iteration: 75, mu=10000000, J_total_sum =2.378983344879813, J_total_sum2=2.378982990792059
+iteration: 76, mu=10000000, J_total_sum =2.378982990792059, J_total_sum2=2.378982658504841
+iteration: 77, mu=10000000, J_total_sum =2.378982658504841, J_total_sum2=2.378982327842015
+iteration: 78, mu=10000000, J_total_sum =2.378982327842015, J_total_sum2=2.378982027244688
+iteration: 79, mu=10000000, J_total_sum =2.378982027244688, J_total_sum2=2.378981713509875
+iteration: 80, mu=10000000, J_total_sum =2.378981713509875, J_total_sum2=2.378981388443176
+iteration: 81, mu=10000000, J_total_sum =2.378981388443176, J_total_sum2=2.378981062959425
+iteration: 82, mu=10000000, J_total_sum =2.378981062959425, J_total_sum2=2.378980755558134
+iteration: 83, mu=10000000, J_total_sum =2.378980755558134, J_total_sum2=2.378980433871944
+iteration: 84, mu=10000000, J_total_sum =2.378980433871944, J_total_sum2=2.378980116135597
+iteration: 85, mu=10000000, J_total_sum =2.378980116135597, J_total_sum2=2.378979779562469
+iteration: 86, mu=10000000, J_total_sum =2.378979779562469, J_total_sum2=2.378979450058271
+iteration: 87, mu=10000000, J_total_sum =2.378979450058271, J_total_sum2=2.378979140411028
+iteration: 88, mu=10000000, J_total_sum =2.378979140411028, J_total_sum2=2.378978814907646
+iteration: 89, mu=10000000, J_total_sum =2.378978814907646, J_total_sum2=2.378978511992861
+iteration: 90, mu=10000000, J_total_sum =2.378978511992861, J_total_sum2=2.378978204153726
+iteration: 91, mu=10000000, J_total_sum =2.378978204153726, J_total_sum2=2.378977884658344
+iteration: 92, mu=10000000, J_total_sum =2.378977884658344, J_total_sum2=2.378977562617527
+iteration: 93, mu=10000000, J_total_sum =2.378977562617527, J_total_sum2=2.378977243767312
+iteration: 94, mu=10000000, J_total_sum =2.378977243767312, J_total_sum2=2.37897692288151
+iteration: 95, mu=10000000, J_total_sum =2.37897692288151, J_total_sum2=2.378976603770115
+iteration: 96, mu=10000000, J_total_sum =2.378976603770115, J_total_sum2=2.378976282679423
+iteration: 97, mu=10000000, J_total_sum =2.378976282679423, J_total_sum2=2.378975979886636
+iteration: 98, mu=10000000, J_total_sum =2.378975979886636, J_total_sum2=2.378975663130042
+iteration: 99, mu=10000000, J_total_sum =2.378975663130042, J_total_sum2=2.378975349299329
+iteration: 100, mu=10000000, J_total_sum =2.378975349299329, J_total_sum2=2.37897503774906
+iteration: 101, mu=10000000, J_total_sum =2.37897503774906, J_total_sum2=2.378974729171976
+iteration: 102, mu=10000000, J_total_sum =2.378974729171976, J_total_sum2=2.378974404141541
+iteration: 103, mu=10000000, J_total_sum =2.378974404141541, J_total_sum2=2.378974088778655
+iteration: 104, mu=10000000, J_total_sum =2.378974088778655, J_total_sum2=2.378973768028435
+iteration: 105, mu=10000000, J_total_sum =2.378973768028435, J_total_sum2=2.37897345112566
+iteration: 106, mu=10000000, J_total_sum =2.37897345112566, J_total_sum2=2.37897313324395
+iteration: 107, mu=10000000, J_total_sum =2.37897313324395, J_total_sum2=2.378972819739988
+iteration: 108, mu=10000000, J_total_sum =2.378972819739988, J_total_sum2=2.378972499316073
+iteration: 109, mu=10000000, J_total_sum =2.378972499316073, J_total_sum2=2.378972188082695
+iteration: 110, mu=10000000, J_total_sum =2.378972188082695, J_total_sum2=2.378971877941855
+iteration: 111, mu=10000000, J_total_sum =2.378971877941855, J_total_sum2=2.378971561688639
+iteration: 112, mu=10000000, J_total_sum =2.378971561688639, J_total_sum2=2.378971237770419
+iteration: 113, mu=10000000, J_total_sum =2.378971237770419, J_total_sum2=2.378970917804502
+iteration: 114, mu=10000000, J_total_sum =2.378970917804502, J_total_sum2=2.378970596470825
+iteration: 115, mu=10000000, J_total_sum =2.378970596470825, J_total_sum2=2.378970284784267
+iteration: 116, mu=10000000, J_total_sum =2.378970284784267, J_total_sum2=2.37896996952604
+iteration: 117, mu=10000000, J_total_sum =2.37896996952604, J_total_sum2=2.378969657573713
+iteration: 118, mu=10000000, J_total_sum =2.378969657573713, J_total_sum2=2.378969353274642
+iteration: 119, mu=10000000, J_total_sum =2.378969353274642, J_total_sum2=2.378969043615616
+iteration: 120, mu=10000000, J_total_sum =2.378969043615616, J_total_sum2=2.378968726224445
+iteration: 121, mu=10000000, J_total_sum =2.378968726224445, J_total_sum2=2.37896841289806
+iteration: 122, mu=10000000, J_total_sum =2.37896841289806, J_total_sum2=2.378968098529013
+iteration: 123, mu=10000000, J_total_sum =2.378968098529013, J_total_sum2=2.378967786763496
+iteration: 124, mu=10000000, J_total_sum =2.378967786763496, J_total_sum2=2.378967465326518
+iteration: 125, mu=10000000, J_total_sum =2.378967465326518, J_total_sum2=2.378967141358245
+iteration: 126, mu=10000000, J_total_sum =2.378967141358245, J_total_sum2=2.378966825610562
+iteration: 127, mu=10000000, J_total_sum =2.378966825610562, J_total_sum2=2.37896650153131
+iteration: 128, mu=10000000, J_total_sum =2.37896650153131, J_total_sum2=2.378966183182743
+Run: 96
+iteration: 1, mu=0.0001, J_total_sum =2.451372387919623, J_total_sum2=2.36617068788847
+iteration: 2, mu=0.1, J_total_sum =2.36617068788847, J_total_sum2=2.353889212443026
+reach min_gra 
+Run: 97
+iteration: 1, mu=0.001, J_total_sum =2.467080630346912, J_total_sum2=2.42474645963669
+iteration: 2, mu=10000, J_total_sum =2.42474645963669, J_total_sum2=2.424743863620096
+reach min_gra 
+Run: 98
+iteration: 1, mu=0.0001, J_total_sum =2.421373650310642, J_total_sum2=2.384401978404891
+reach mu_max1
+reach mu_max 
+Run: 99
+iteration: 1, mu=0.0001, J_total_sum =2.438093763786394, J_total_sum2=2.370651791596783
+reach mu_max1
+reach mu_max 
+Run: 100
+iteration: 1, mu=0.001, J_total_sum =2.427499269470021, J_total_sum2=2.390724606678098
+reach mu_max1
+reach mu_max 
