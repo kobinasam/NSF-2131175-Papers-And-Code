@@ -1,0 +1,1137 @@
+======================================================
+SEEING RESULTS FOR JORDAN'S REWRITE USING SAME RSS LOGIC
+
+iteration2: 1, mu=0.0001, R_average=504, R_average2=504
+
+iteration2: 2, mu=1e-05, R_average=504, R_average2=504
+
+iteration2: 3, mu=1e-06, R_average=504, R_average2=504
+
+iteration2: 4, mu=1e-06, R_average=504, R_average2=503.981
+
+iteration2: 5, mu=0.01, R_average=503.981, R_average2=503.908
+
+iteration2: 6, mu=0.01, R_average=503.908, R_average2=375.147
+
+iteration2: 7, mu=100, R_average=375.147, R_average2=254.893
+
+iteration2: 8, mu=10, R_average=254.893, R_average2=189.644
+
+iteration2: 9, mu=1, R_average=189.644, R_average2=20.911
+
+iteration2: 10, mu=0.1, R_average=20.911, R_average2=20.0037
+
+iteration2: 11, mu=0.01, R_average=20.0037, R_average2=20.0006
+
+iteration2: 12, mu=0.001, R_average=20.0006, R_average2=19.9682
+
+iteration2: 13, mu=0.001, R_average=19.9682, R_average2=19.9656
+
+iteration2: 14, mu=0.001, R_average=19.9656, R_average2=19.1657
+
+iteration2: 15, mu=0.01, R_average=19.1657, R_average2=14.7725
+
+iteration2: 16, mu=1, R_average=14.7725, R_average2=13.7778
+
+iteration2: 17, mu=1, R_average=13.7778, R_average2=13.0431
+
+iteration2: 18, mu=1, R_average=13.0431, R_average2=12.25
+
+iteration2: 19, mu=1, R_average=12.25, R_average2=11.4035
+
+iteration2: 20, mu=1, R_average=11.4035, R_average2=10.5168
+
+iteration2: 21, mu=1, R_average=10.5168, R_average2=9.604
+
+iteration2: 22, mu=1, R_average=9.604, R_average2=8.68729
+
+iteration2: 23, mu=1, R_average=8.68729, R_average2=7.79917
+
+iteration2: 24, mu=1, R_average=7.79917, R_average2=6.97423
+
+iteration2: 25, mu=1, R_average=6.97423, R_average2=6.2382
+
+iteration2: 26, mu=1, R_average=6.2382, R_average2=5.60316
+
+iteration2: 27, mu=1, R_average=5.60316, R_average2=5.0691
+
+iteration2: 28, mu=1, R_average=5.0691, R_average2=4.62827
+
+iteration2: 29, mu=1, R_average=4.62827, R_average2=4.26908
+
+iteration2: 30, mu=1, R_average=4.26908, R_average2=3.97898
+
+iteration2: 31, mu=1, R_average=3.97898, R_average2=3.74597
+
+iteration2: 32, mu=1, R_average=3.74597, R_average2=3.5594
+
+iteration2: 33, mu=1, R_average=3.5594, R_average2=3.41022
+
+iteration2: 34, mu=1, R_average=3.41022, R_average2=3.29093
+
+iteration2: 35, mu=1, R_average=3.29093, R_average2=3.19544
+
+iteration2: 36, mu=1, R_average=3.19544, R_average2=3.11885
+
+iteration2: 37, mu=1, R_average=3.11885, R_average2=3.05728
+
+iteration2: 38, mu=1, R_average=3.05728, R_average2=3.00765
+
+iteration2: 39, mu=1, R_average=3.00765, R_average2=2.96751
+
+iteration2: 40, mu=1, R_average=2.96751, R_average2=2.93495
+
+iteration2: 41, mu=1, R_average=2.93495, R_average2=2.90847
+
+iteration2: 42, mu=1, R_average=2.90847, R_average2=2.88687
+
+iteration2: 43, mu=1, R_average=2.88687, R_average2=2.8692
+
+iteration2: 44, mu=1, R_average=2.8692, R_average2=2.85473
+
+iteration2: 45, mu=1, R_average=2.85473, R_average2=2.84285
+
+iteration2: 46, mu=1, R_average=2.84285, R_average2=2.83309
+
+iteration2: 47, mu=1, R_average=2.83309, R_average2=2.82507
+
+iteration2: 48, mu=1, R_average=2.82507, R_average2=2.8185
+
+iteration2: 49, mu=1, R_average=2.8185, R_average2=2.81311
+
+iteration2: 50, mu=1, R_average=2.81311, R_average2=2.80871
+
+iteration2: 51, mu=1, R_average=2.80871, R_average2=2.80514
+
+iteration2: 52, mu=1, R_average=2.80514, R_average2=2.80226
+
+iteration2: 53, mu=1, R_average=2.80226, R_average2=2.79996
+
+iteration2: 54, mu=1, R_average=2.79996, R_average2=2.79815
+
+iteration2: 55, mu=1, R_average=2.79815, R_average2=2.79676
+
+iteration2: 56, mu=1, R_average=2.79676, R_average2=2.79571
+
+iteration2: 57, mu=1, R_average=2.79571, R_average2=2.79496
+
+iteration2: 58, mu=1, R_average=2.79496, R_average2=2.79446
+
+iteration2: 59, mu=1, R_average=2.79446, R_average2=2.79417
+
+iteration2: 60, mu=1, R_average=2.79417, R_average2=2.79407
+
+iteration2: 61, mu=10, R_average=2.79407, R_average2=2.7475
+
+iteration2: 62, mu=10, R_average=2.7475, R_average2=2.74106
+
+iteration2: 63, mu=10, R_average=2.74106, R_average2=2.73584
+
+iteration2: 64, mu=10, R_average=2.73584, R_average2=2.73112
+
+iteration2: 65, mu=10, R_average=2.73112, R_average2=2.72686
+
+iteration2: 66, mu=10, R_average=2.72686, R_average2=2.723
+
+iteration2: 67, mu=10, R_average=2.723, R_average2=2.71951
+
+iteration2: 68, mu=10, R_average=2.71951, R_average2=2.71636
+
+iteration2: 69, mu=10, R_average=2.71636, R_average2=2.7135
+
+iteration2: 70, mu=10, R_average=2.7135, R_average2=2.71092
+
+iteration2: 71, mu=10, R_average=2.71092, R_average2=2.70859
+
+iteration2: 72, mu=10, R_average=2.70859, R_average2=2.70649
+
+iteration2: 73, mu=10, R_average=2.70649, R_average2=2.70459
+
+iteration2: 74, mu=10, R_average=2.70459, R_average2=2.70287
+
+iteration2: 75, mu=10, R_average=2.70287, R_average2=2.70132
+
+iteration2: 76, mu=10, R_average=2.70132, R_average2=2.69992
+
+iteration2: 77, mu=10, R_average=2.69992, R_average2=2.69866
+
+iteration2: 78, mu=10, R_average=2.69866, R_average2=2.69752
+
+iteration2: 79, mu=10, R_average=2.69752, R_average2=2.69649
+
+iteration2: 80, mu=10, R_average=2.69649, R_average2=2.69557
+
+iteration2: 81, mu=10, R_average=2.69557, R_average2=2.69473
+
+iteration2: 82, mu=10, R_average=2.69473, R_average2=2.69398
+
+iteration2: 83, mu=10, R_average=2.69398, R_average2=2.6933
+
+iteration2: 84, mu=10, R_average=2.6933, R_average2=2.6927
+
+iteration2: 85, mu=10, R_average=2.6927, R_average2=2.69215
+
+iteration2: 86, mu=10, R_average=2.69215, R_average2=2.69166
+
+iteration2: 87, mu=10, R_average=2.69166, R_average2=2.69122
+
+iteration2: 88, mu=10, R_average=2.69122, R_average2=2.69083
+
+iteration2: 89, mu=10, R_average=2.69083, R_average2=2.69047
+
+iteration2: 90, mu=10, R_average=2.69047, R_average2=2.69016
+
+iteration2: 91, mu=10, R_average=2.69016, R_average2=2.68988
+
+iteration2: 92, mu=10, R_average=2.68988, R_average2=2.68963
+
+iteration2: 93, mu=10, R_average=2.68963, R_average2=2.68941
+
+iteration2: 94, mu=10, R_average=2.68941, R_average2=2.68922
+
+iteration2: 95, mu=10, R_average=2.68922, R_average2=2.68905
+
+iteration2: 96, mu=10, R_average=2.68905, R_average2=2.6889
+
+iteration2: 97, mu=10, R_average=2.6889, R_average2=2.68877
+
+iteration2: 98, mu=10, R_average=2.68877, R_average2=2.68866
+
+iteration2: 99, mu=10, R_average=2.68866, R_average2=2.68856
+
+iteration2: 100, mu=10, R_average=2.68856, R_average2=2.68848
+
+iteration2: 101, mu=10, R_average=2.68848, R_average2=2.68842
+
+iteration2: 102, mu=10, R_average=2.68842, R_average2=2.68836
+
+iteration2: 103, mu=10, R_average=2.68836, R_average2=2.68832
+
+iteration2: 104, mu=10, R_average=2.68832, R_average2=2.68829
+
+iteration2: 105, mu=10, R_average=2.68829, R_average2=2.68826
+
+iteration2: 106, mu=10, R_average=2.68826, R_average2=2.68825
+
+iteration2: 107, mu=10, R_average=2.68825, R_average2=2.68824
+
+iteration2: 108, mu=100, R_average=2.68824, R_average2=2.68752
+
+iteration2: 109, mu=100, R_average=2.68752, R_average2=2.68745
+
+iteration2: 110, mu=100, R_average=2.68745, R_average2=2.68742
+
+iteration2: 111, mu=100, R_average=2.68742, R_average2=2.6874
+
+iteration2: 112, mu=100, R_average=2.6874, R_average2=2.68738
+
+iteration2: 113, mu=100, R_average=2.68738, R_average2=2.68736
+
+iteration2: 114, mu=100, R_average=2.68736, R_average2=2.68735
+
+iteration2: 115, mu=100, R_average=2.68735, R_average2=2.68733
+
+iteration2: 116, mu=100, R_average=2.68733, R_average2=2.68731
+
+iteration2: 117, mu=100, R_average=2.68731, R_average2=2.68729
+
+iteration2: 118, mu=100, R_average=2.68729, R_average2=2.68728
+
+iteration2: 119, mu=100, R_average=2.68728, R_average2=2.68726
+
+iteration2: 120, mu=100, R_average=2.68726, R_average2=2.68725
+
+iteration2: 121, mu=100, R_average=2.68725, R_average2=2.68723
+
+iteration2: 122, mu=100, R_average=2.68723, R_average2=2.68722
+
+iteration2: 123, mu=100, R_average=2.68722, R_average2=2.6872
+
+iteration2: 124, mu=100, R_average=2.6872, R_average2=2.68719
+
+iteration2: 125, mu=100, R_average=2.68719, R_average2=2.68718
+
+iteration2: 126, mu=100, R_average=2.68718, R_average2=2.68716
+
+iteration2: 127, mu=100, R_average=2.68716, R_average2=2.68715
+
+iteration2: 128, mu=100, R_average=2.68715, R_average2=2.68714
+
+iteration2: 129, mu=100, R_average=2.68714, R_average2=2.68713
+
+iteration2: 130, mu=100, R_average=2.68713, R_average2=2.68711
+
+iteration2: 131, mu=100, R_average=2.68711, R_average2=2.6871
+
+iteration2: 132, mu=100, R_average=2.6871, R_average2=2.68709
+
+iteration2: 133, mu=100, R_average=2.68709, R_average2=2.68708
+
+iteration2: 134, mu=100, R_average=2.68708, R_average2=2.68707
+
+iteration2: 135, mu=100, R_average=2.68707, R_average2=2.68706
+
+iteration2: 136, mu=100, R_average=2.68706, R_average2=2.68705
+
+iteration2: 137, mu=100, R_average=2.68705, R_average2=2.68704
+
+iteration2: 138, mu=100, R_average=2.68704, R_average2=2.68703
+
+iteration2: 139, mu=100, R_average=2.68703, R_average2=2.68702
+
+iteration2: 140, mu=100, R_average=2.68702, R_average2=2.68702
+
+iteration2: 141, mu=100, R_average=2.68702, R_average2=2.68701
+
+iteration2: 142, mu=100, R_average=2.68701, R_average2=2.687
+
+iteration2: 143, mu=100, R_average=2.687, R_average2=2.68699
+
+iteration2: 144, mu=100, R_average=2.68699, R_average2=2.68698
+
+iteration2: 145, mu=100, R_average=2.68698, R_average2=2.68698
+
+iteration2: 146, mu=100, R_average=2.68698, R_average2=2.68697
+
+iteration2: 147, mu=100, R_average=2.68697, R_average2=2.68696
+
+iteration2: 148, mu=100, R_average=2.68696, R_average2=2.68696
+
+iteration2: 149, mu=100, R_average=2.68696, R_average2=2.68695
+
+iteration2: 150, mu=100, R_average=2.68695, R_average2=2.68694
+
+iteration2: 151, mu=100, R_average=2.68694, R_average2=2.68694
+
+iteration2: 152, mu=100, R_average=2.68694, R_average2=2.68693
+
+iteration2: 153, mu=100, R_average=2.68693, R_average2=2.68693
+
+iteration2: 154, mu=100, R_average=2.68693, R_average2=2.68692
+
+iteration2: 155, mu=100, R_average=2.68692, R_average2=2.68692
+
+iteration2: 156, mu=100, R_average=2.68692, R_average2=2.68691
+
+iteration2: 157, mu=100, R_average=2.68691, R_average2=2.68691
+
+iteration2: 158, mu=100, R_average=2.68691, R_average2=2.6869
+
+iteration2: 159, mu=100, R_average=2.6869, R_average2=2.6869
+
+iteration2: 160, mu=100, R_average=2.6869, R_average2=2.6869
+
+iteration2: 161, mu=100, R_average=2.6869, R_average2=2.68689
+
+iteration2: 162, mu=100, R_average=2.68689, R_average2=2.68689
+
+iteration2: 163, mu=100, R_average=2.68689, R_average2=2.68689
+
+iteration2: 164, mu=100, R_average=2.68689, R_average2=2.68688
+
+iteration2: 165, mu=100, R_average=2.68688, R_average2=2.68688
+
+iteration2: 166, mu=100, R_average=2.68688, R_average2=2.68688
+
+iteration2: 167, mu=100, R_average=2.68688, R_average2=2.68688
+
+iteration2: 168, mu=100, R_average=2.68688, R_average2=2.68687
+
+iteration2: 169, mu=100, R_average=2.68687, R_average2=2.68687
+
+iteration2: 170, mu=100, R_average=2.68687, R_average2=2.68687
+
+iteration2: 171, mu=100, R_average=2.68687, R_average2=2.68687
+
+iteration2: 172, mu=100, R_average=2.68687, R_average2=2.68687
+
+iteration2: 173, mu=100, R_average=2.68687, R_average2=2.68687
+
+iteration2: 174, mu=100, R_average=2.68687, R_average2=2.68686
+
+iteration2: 175, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 176, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 177, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 178, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 179, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 180, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 181, mu=100, R_average=2.68686, R_average2=2.68686
+
+iteration2: 182, mu=1000, R_average=2.68686, R_average2=2.68686
+
+iteration2: 183, mu=1000, R_average=2.68686, R_average2=2.68685
+
+iteration2: 184, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 185, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 186, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 187, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 188, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 189, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 190, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 191, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 192, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 193, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 194, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 195, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 196, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 197, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 198, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 199, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 200, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 201, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 202, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 203, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 204, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 205, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 206, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 207, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 208, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 209, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 210, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 211, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 212, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 213, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 214, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 215, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 216, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 217, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 218, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 219, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 220, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 221, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 222, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 223, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 224, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 225, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 226, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 227, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 228, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 229, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 230, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 231, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 232, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 233, mu=1000, R_average=2.68685, R_average2=2.68685
+
+iteration2: 234, mu=1000, R_average=2.68685, R_average2=2.68684
+
+iteration2: 235, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 236, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 237, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 238, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 239, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 240, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 241, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 242, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 243, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 244, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 245, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 246, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 247, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 248, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 249, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 250, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 251, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 252, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 253, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 254, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 255, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 256, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 257, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 258, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 259, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 260, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 261, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 262, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 263, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 264, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 265, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 266, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 267, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 268, mu=1000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 269, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 270, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 271, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 272, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 273, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 274, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 275, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 276, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 277, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 278, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 279, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 280, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 281, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 282, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 283, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 284, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 285, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 286, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 287, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 288, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 289, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 290, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 291, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 292, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 293, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 294, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 295, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 296, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 297, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 298, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 299, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 300, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 301, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 302, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 303, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 304, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 305, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 306, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 307, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 308, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 309, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 310, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 311, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 312, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 313, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 314, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 315, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 316, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 317, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 318, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 319, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 320, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 321, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 322, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 323, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 324, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 325, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 326, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 327, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 328, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 329, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 330, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 331, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 332, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 333, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 334, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 335, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 336, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 337, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 338, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 339, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 340, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 341, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 342, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 343, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 344, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 345, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 346, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 347, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 348, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 349, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 350, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 351, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 352, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 353, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 354, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 355, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 356, mu=10000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 357, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 358, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 359, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 360, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 361, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 362, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 363, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 364, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 365, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 366, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 367, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 368, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 369, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 370, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 371, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 372, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 373, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 374, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 375, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 376, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 377, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 378, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 379, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 380, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 381, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 382, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 383, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 384, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 385, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 386, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 387, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 388, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 389, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 390, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 391, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 392, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 393, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 394, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 395, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 396, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 397, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 398, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 399, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 400, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 401, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 402, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 403, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 404, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 405, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 406, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 407, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 408, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 409, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 410, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 411, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 412, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 413, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 414, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 415, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 416, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 417, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 418, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 419, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 420, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 421, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 422, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 423, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 424, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 425, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 426, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 427, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 428, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 429, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 430, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 431, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 432, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 433, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 434, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 435, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 436, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 437, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 438, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 439, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 440, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 441, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 442, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 443, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 444, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 445, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 446, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 447, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 448, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 449, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 450, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 451, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 452, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 453, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 454, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 455, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 456, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 457, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 458, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 459, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 460, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 461, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 462, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 463, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 464, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 465, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 466, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 467, mu=100000, R_average=2.68684, R_average2=2.68684
+
+iteration2: 468, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 469, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 470, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 471, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 472, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 473, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 474, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 475, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 476, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 477, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 478, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 479, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 480, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 481, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 482, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 483, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 484, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 485, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 486, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 487, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 488, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 489, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 490, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 491, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 492, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 493, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 494, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 495, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 496, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 497, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 498, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 499, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 500, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 501, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 502, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 503, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 504, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 505, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 506, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 507, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 508, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 509, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 510, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 511, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 512, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 513, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 514, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 515, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 516, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 517, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 518, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 519, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 520, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 521, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 522, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 523, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 524, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 525, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 526, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 527, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 528, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 529, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 530, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 531, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 532, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 533, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 534, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 535, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 536, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 537, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 538, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 539, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 540, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 541, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 542, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 543, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 544, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 545, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 546, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 547, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 548, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 549, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 550, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 551, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 552, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 553, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 554, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 555, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 556, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 557, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 558, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 559, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 560, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 561, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 562, mu=1e+08, R_average=2.68684, R_average2=2.68684
+
+iteration2: 563, mu=1e+07, R_average=2.68684, R_average2=2.68684
+
+iteration2: 564, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 565, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 566, mu=1e+06, R_average=2.68684, R_average2=2.68684
+
+iteration2: 567, mu=1e+06, R_average=2.68684, R_average2=2.68684
+reach mu_max 
