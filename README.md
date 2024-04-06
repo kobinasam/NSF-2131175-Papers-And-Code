@@ -86,3 +86,6 @@ Also, your runtime linker must be able to find ```libopenblas.dll```. I was havi
 You can run the script like this: ```mpiexec -n $1 lmbp.exe $2```, where ```$1``` is the parameter for number of workers for the parallelization and ```$2``` is the parameter for how many multiples of 10 trajectories to run for training.
 
 The simplest execution to test if everything is working is thus: ```mpiexec -n 1 lmbp.exe 1.```
+
+The repository has mainly two folders where one focuses on the inplementation of the drop-out technique whiles the other does not. Our main goal was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
+
