@@ -1,0 +1,12 @@
+test_openmpi.cpp:9:11: fatal error: armadillo: No such file or directory
+ # include <armadillo>
+           ^~~~~~~~~~~
+compilation terminated.
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 2 slots
+that were requested by the application:
+  test_openmpi
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
