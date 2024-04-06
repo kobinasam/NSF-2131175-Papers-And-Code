@@ -1,5 +1,5 @@
 
-# Enhancing RNN Controllers with Parallel Computing and Weight Dropout Techniques
+# Accelerating RNN Controllers with Parallel Computing and Weight Dropout Techniques
 
 This is a repository for my work using c++ to implement an RNN as a grid connected controller. The code is sitting in /main.
 
@@ -87,5 +87,8 @@ You can run the script like this: ```mpiexec -n $1 lmbp.exe $2```, where ```$1``
 
 The simplest execution to test if everything is working is thus: ```mpiexec -n 1 lmbp.exe 1.```
 
-The repository has mainly two folders where one focuses on the inplementation of the drop-out technique whiles the other does not. Our main goal was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
+This repository mainly has three folders. 
 
+We implemented A Novel Weight Dropout Approach to Accelerate the Neural Network Controller Embedded Implementation on FPGA for a Solar Inverter, Parallel Trajectory Training of Recurrent Neural Network Controllers with Levenberg–Marquardt and Forward Accumulation Through Time in Closed-loop Control Systems and lastly Accelerating RNN Controllers with Parallel Computing and Weight Dropout Techniques. 
+
+Our main goal impementing the drop-out technique on our parallel trajectory training was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
