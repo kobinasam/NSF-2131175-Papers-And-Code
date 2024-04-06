@@ -1,5 +1,5 @@
 
-# RNN For Grid Connected Converter
+# Enhancing RNN Controllers with Parallel Computing and Weight Dropout Techniques
 
 This is a repository for my work using c++ to implement an RNN as a grid connected controller. The code is sitting in /main.
 
