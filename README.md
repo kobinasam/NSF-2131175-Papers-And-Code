@@ -93,7 +93,7 @@ We implemented A Novel Weight Dropout Approach to Accelerate the Neural Network 
 
 Our main goal impementing the drop-out technique on our parallel trajectory training was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
 
-### Running the program on AWS:
+# Running the program on AWS:
 
 First create a GitHub repository and commit the code to the repository
 
@@ -133,7 +133,7 @@ And then run this: mpiexec -n $1 lmbp.exe $2, where $1 is the parameter for numb
 
 The simplest execution to test if everything is working is thus: mpiexec -n 1 lmbp.exe 1.
 
-### Running the program on HPC:
+# Running the program on HPC:
 
 To login to the HPC: Use SSH to login to the cluster login node
 
@@ -153,15 +153,15 @@ The best way to start a job is through a job submission script. This script will
 #SBATCH --mail-type=END               # Send email at job completion
 #SBATCH --mail-user=email-addr        # Email address for notifications
 
-# load environment modules, if needed
+### load environment modules, if needed
  
  module load openmpi
  
-# Application execution 
+### Application execution 
 You can either run jobs directly, with srun, or with MPI.
  
-# direct example
+### direct example
 python example.py
 
-# MPI example for MPI programs
+### MPI example for MPI programs
 mpiexec application command line arguments
