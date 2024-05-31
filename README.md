@@ -93,7 +93,7 @@ We implemented A Novel Weight Dropout Approach to Accelerate the Neural Network 
 
 Our main goal impementing the drop-out technique on our parallel trajectory training was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
 
-##Running the program on AWS:
+### Running the program on AWS:
 
 First create a GitHub repository and commit the code to the repository
 
@@ -122,7 +122,8 @@ To check if successful, open a new terminal then “ssh” to your AWS server us
 
 Change directory to check if the deployment was successfully done. 
 
-##Dependancies:
+### Dependancies:
+
 Make sure to install all dependancies: MPI, Armadillo and Eigen. 
 
 To run the code which is sitting in /main: 
@@ -131,6 +132,4 @@ First build the project using this script: mpic++ -I/usr/include/eigen3 -o myRNN
 And then run this: mpiexec -n $1 lmbp.exe $2, where $1 is the parameter for number of workers for the parallelization and $2 is the parameter for how many multiples of 10 trajectories to run for training.
 
 The simplest execution to test if everything is working is thus: mpiexec -n 1 lmbp.exe 1.
-
-https://wiki.simcenter.utc.edu/doku.php/hpc_resources:how_to_run_jobs:login_node
 
