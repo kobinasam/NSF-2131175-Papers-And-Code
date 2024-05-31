@@ -92,3 +92,43 @@ This repository mainly has three folders.
 We implemented A Novel Weight Dropout Approach to Accelerate the Neural Network Controller Embedded Implementation on FPGA for a Solar Inverter, Parallel Trajectory Training of Recurrent Neural Network Controllers with Levenberg–Marquardt and Forward Accumulation Through Time in Closed-loop Control Systems and lastly Accelerating RNN Controllers with Parallel Computing and Weight Dropout Techniques. 
 
 Our main goal impementing the drop-out technique on our parallel trajectory training was to see how the implementation of the drop-out technique impacts the results of our trajectory parallelization. 
+
+##Running the program on AWS:
+
+First create a GitHub repository and commit the code to the repository
+
+Now using Git Actions create a workflow to the AWS. 
+
+To set up the workflow, click on “Actions” on your menu items under your repository name then click on “new workflow” and “set up a workflow yourself”. 
+
+This is a sample “Action” which can be found on this link https://github.com/kobinasam/Trajectory-Parallelization-RNN/blob/main/.github/workflows/main.yml
+
+You can download it and commit it to your repository as well. 
+
+Now go to settings on the same repository. On the left side of the page scroll down to “Security” and then click on the submenu “Secrets and variables”.
+
+Click on “Actions” and then “New repository secrets”
+
+Define your name and secret {PUBLIC_PATH}, {HOSTIP }, {USER_NAME }, {PRIVATE_KEY} as strings as seen in the yml file. 
+
+PUBLIC_PATH is the path to the root of your code
+HOSTIP is the IP address given by AWS after your create an instance
+USER_NAME is the name of the server ie, Ubuntu
+PRIVATE_KEY is the private key given by AWS
+
+After successfully setting up Git Actions, do a new commit to check if your code is directly deployed on your AWS server. 
+
+To check if successful, open a new terminal then “ssh” to your AWS server using “ssh -i “permission-name” “server-name@private-key”
+
+Change directory to check if the deployment was successfully done. 
+
+##Dependancies:
+Make sure to install all dependancies: MPI, Armadillo and Eigen. 
+
+To run the code which is sitting in /main: 
+First build the project using this script: mpic++ -I/usr/include/eigen3 -o myRNN RNN.cpp lmbp.cpp matrix_utility.cpp -larmadillo -llapack -lboost_iostreams -lmlpack
+
+And then run this: mpiexec -n $1 lmbp.exe $2, where $1 is the parameter for number of workers for the parallelization and $2 is the parameter for how many multiples of 10 trajectories to run for training.
+
+The simplest execution to test if everything is working is thus: mpiexec -n 1 lmbp.exe 1.
+
