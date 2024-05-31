@@ -118,7 +118,7 @@ PRIVATE_KEY is the private key given by AWS
 
 After successfully setting up Git Actions, do a new commit to check if your code is directly deployed on your AWS server. 
 
-To check if successful, open a new terminal then “ssh” to your AWS server using “ssh -i “permission-name” “server-name@private-key”
+To check if successful, open a new terminal then “ssh” to your AWS server using “ssh -i <permission-name> <server-name@private-key>
 
 Change directory to check if the deployment was successfully done. 
 
@@ -133,3 +133,35 @@ And then run this: mpiexec -n $1 lmbp.exe $2, where $1 is the parameter for numb
 
 The simplest execution to test if everything is working is thus: mpiexec -n 1 lmbp.exe 1.
 
+### Running the program on HPC:
+
+To login to the HPC: Use SSH to login to the cluster login node
+
+The best way to start a job is through a job submission script. This script will define all the parameters needed for the job, including run time, number of CPUs, number of GPUs, partition name, etc. Submitting jobs in this manner will the allow resources used to automatically be made available to the next user as soon as the code is finished running.
+### Here is an example submission script:
+#!/bin/bash
+ 
+#SBATCH --job-name=my_job             # Job name
+#SBATCH --output=output.txt           # Output text file
+#SBATCH --error=error.txt             # Error text file
+#SBATCH --partition=partition_name    # Partition name
+#SBATCH --nodes=1                     # Number of nodes
+#SBATCH --ntasks-per-node=1           # Number of tasks per node
+#SBATCH --cpus-per-task=1             # Number of CPU cores per task
+#SBATCH --gpus-per-node=1             # Number of GPUs per node
+#SBATCH --time=0-2:00:00              # Maximum runtime (D-HH:MM:SS)
+#SBATCH --mail-type=END               # Send email at job completion
+#SBATCH --mail-user=email-addr        # Email address for notifications
+
+# load environment modules, if needed
+ 
+ module load openmpi
+ 
+# Application execution 
+You can either run jobs directly, with srun, or with MPI.
+ 
+# direct example
+python example.py
+
+# MPI example for MPI programs
+mpiexec application command line arguments
