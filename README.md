@@ -132,3 +132,5 @@ And then run this: mpiexec -n $1 lmbp.exe $2, where $1 is the parameter for numb
 
 The simplest execution to test if everything is working is thus: mpiexec -n 1 lmbp.exe 1.
 
+https://wiki.simcenter.utc.edu/doku.php/hpc_resources:how_to_run_jobs:login_node
+
